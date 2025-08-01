@@ -1,0 +1,1001 @@
+Student Name,Age,Gender,Institute Name,Course Name,class_Type,Duration,Assignments submitted,projects submitted,Mock_Test,Attendance(in %),Certification obtained,Final score(in %),Placement status
+Riya Nair,21,Female ,SocialPrachar,Ethical Hacking,Online,5 months,,3,53,78,No Certification,64,No
+Jhanvi Nair,22,Male,SocialPrachar,AI &ML,Online,6 months ,9,,75,80,NASSCOM Certification,71,Yes
+Isha Pillai,25,Male ,SocialPrachar,Cloud Computing,Offline,7 months,9,3,24,82,AWS Specialization,95,No
+Aarohi Deshmukh,26,Male,SocialPrachar,Cloud Computing,Offline,6 months,5,3,79,88,NASSCOM Certification,66,Yes
+Shivansh Nair,22,Female ,SocialPrachar,Python Programming,Offline,,8,2,96,86,AWS Specialization,90,Yes
+Neha Verma,25,Female ,SocialPrachar,Robotics,Offline,6 months,9,3,71,76,NASSCOM Certification,95,No
+Kabir Verma,23,Female ,SocialPrachar,Web Development,Offline,7 months,7,3,35,76,No Certification,97,No
+Shruti Reddy,,Male,SocialPrachar,Robotics,Online,8 months,9,3,23,91,No Certification,70,No
+Gayatri Verma,24,Male,SocialPrachar,Web Development,Offline,6 months,5,2,17,100,NASSCOM Certification,88,No
+Aryan Venkatesh,25,Female ,Naresh i technologies,Robotics,Offline,5 months,6,2,37,71,IIT Madras Standard Course,87,Yes
+Samar Chopra,22,Female ,Levelup,Ethical Hacking,Offline,5 months,7,1,13,91,No Certification,64,Yes
+Om Sharma,22,Female ,Levelup,Robotics,Online,6 months ,10,2,12,73,No Certification,97,Yes
+Laksh Iyer,22,Male,Naresh i technologies,Software Testing,Online,7 months,5,2,4,86,No Certification,77,Yes
+Sai Pillai,22,Male ,SocialPrachar,Cloud Computing,Online,6 months,8,2,40,85,AWS Specialization,93,No
+Harsh Sharma,22,Male,SocialPrachar,Data Science,Online,5 months,5,1,77,71,IIT Madras Standard Course,73,No
+Radha Chopra,22,Female ,SocialPrachar,Web Development,Offline,6 months,10,3,93,74,NASSCOM Certification,77,No
+Kunal Pandey,22,Female ,Levelup,AI &ML,Online,7 months,10,2,49,98,No Certification,81,Yes
+Kunal Bhat,23,Female ,Naresh i technologies,Robotics,Online,8 months,5,2,31,87,IIT Madras Standard Course,70,Yes
+Bhavna Nair,25,Male,Naresh i technologies,AI &ML,Offline,6 months,9,1,26,73,IIT Madras Standard Course,82,Yes
+Riya Verma,21,Male,SocialPrachar,Cybersecurity,Online,5 months,5,3,64,73,No Certification,93,No
+Vikram Kapoor,22,Female ,Naresh i technologies,Ethical Hacking,Online,5 months,9,1,1,79,No Certification,66,Yes
+Aadhya Malhotra,24,Female ,SocialPrachar,Data Science,Online,6 months ,5,3,91,84,No Certification,91,Yes
+Neha Gowda,24,Female ,Levelup,Data Science,Offline,7 months,10,3,75,84,No Certification,69,Yes
+Neha Sharma,24,Male,SocialPrachar,Data Analytics,Online,6 months,6,2,96,80,IIT Madras Standard Course,63,No
+Gayatri Naidu,25,Male ,SocialPrachar,Software Testing,Offline,5 months,5,1,98,78,NASSCOM Certification,70,No
+Shruti Kulkarni,23,Male,Naresh i technologies,Cybersecurity,Online,6 months,8,2,100,98,NASSCOM Certification,89,No
+Pooja Reddy,26,Female ,Naresh i technologies,Ethical Hacking,Online,7 months,6,1,43,98,AWS Specialization,89,No
+Pooja Chopra,24,Female ,Naresh i technologies,Cloud Computing,Online,8 months,8,1,54,78,No Certification,76,No
+Suman Deshmukh,25,Female ,Levelup,AI &ML,Online,6 months,,2,20,80,AWS Specialization,61,No
+Arjun Malhotra,,Male,Naresh i technologies,AI &ML,Online,5 months,10,3,44,75,Harvard University Professional Certificate,98,Yes
+Priya Nair,25,Male,Levelup,Data Analytics,Offline,5 months,7,1,92,92,NASSCOM Certification,83,Yes
+Meera Mehta,26,Female ,Naresh i technologies,Data Science,Offline,6 months ,7,3,51,95,No Certification,87,No
+Shruti Chopra,22,Female ,Naresh i technologies,Web Development,Online,7 months,9,3,32,100,No Certification,66,Yes
+Rohan Malhotra,25,Female ,SocialPrachar,Ethical Hacking,Online,6 months,6,2,95,94,AWS Specialization,87,Yes
+Neha Chopra,23,Male,SocialPrachar,Cybersecurity,Offline,5 months,7,1,96,99,No Certification,68,Yes
+Arjun Kulkarni,22,Male ,Naresh i technologies,Data Analytics,Offline,6 months,9,3,,90,No Certification,99,No
+Aarav Sharma,24,Male,SocialPrachar,Ethical Hacking,Online,7 months,8,3,72,80,No Certification,82,Yes
+Kabir Gowda,25,Female ,Naresh i technologies,Python Programming,Online,8 months,7,3,21,83,Harvard University Professional Certificate,98,Yes
+Priya Kulkarni,22,Female ,Naresh i technologies,Data Science,Online,6 months,7,3,44,79,NASSCOM Certification,84,Yes
+Aryan Kulkarni,22,Female ,Naresh i technologies,Data Analytics,Offline,5 months,10,1,39,91,No Certification,61,Yes
+Vivaan Tripathi,22,Male,SocialPrachar,Cloud Computing,Online,5 months,6,3,25,76,No Certification,89,Yes
+Yash Mehta,22,Male,SocialPrachar,AI &ML,Online,6 months ,5,3,42,74,NASSCOM Certification,90,Yes
+Aryan Tripathi,22,Female ,SocialPrachar,Data Science,Offline,7 months,9,2,68,73,No Certification,81,No
+Vivaan Gupta,22,Female ,Naresh i technologies,Robotics,Offline,6 months,6,1,61,82,IIT Madras Standard Course,68,Yes
+Pooja Reddy,22,Female ,Naresh i technologies,Web Development,Online,5 months,10,1,39,88,Harvard University Professional Certificate,72,Yes
+Aditya Verma,23,Male,Levelup,Cloud Computing,Offline,6 months,6,1,83,91,AWS Specialization,64,Yes
+Vikram Chopra,25,Male ,Naresh i technologies,Robotics,Online,7 months,9,3,3,100,No Certification,77,No
+Suman Kapoor,,Male,Levelup,Robotics,Offline,8 months,8,1,35,82,Harvard University Professional Certificate,83,No
+Samar Reddy,22,Female ,Naresh i technologies,Data Science,Online,6 months,6,,20,73,NASSCOM Certification,63,Yes
+Shivansh Naidu,24,Female ,Naresh i technologies,Web Development,Online,5 months,5,3,71,80,No Certification,97,No
+Aryan Tripathi,24,Female ,Naresh i technologies,Ethical Hacking,Online,6 months ,70,2,62,75,AWS Specialization,84,No
+Rudra Gupta,24,Male,Naresh i technologies,Cloud Computing,Online,7 months,5,2,70,98,No Certification,69,No
+Om Bhat,25,Male,SocialPrachar,Software Testing,Offline,6 months,10,2,50,75,AWS Specialization,88,Yes
+Laksh Joshi,23,Female ,SocialPrachar,Web Development,Offline,5 months,7,3,,95,NASSCOM Certification,80,No
+Vikram Pillai,26,Female ,Levelup,Ethical Hacking,Offline,6 months,9,3,8,88,AWS Specialization,64,No
+Rohan Deshmukh,24,Female ,Levelup,Ethical Hacking,Online,7 months,6,1,47,78,NASSCOM Certification,72,Yes
+Arjun Gowda,25,Male,Naresh i technologies,Data Science,Online,8 months,6,1,43,71,Harvard University Professional Certificate,60,Yes
+Shivansh Pandey,22,Male ,SocialPrachar,Cloud Computing,Offline,6 months,5,3,78,98,IIT Madras Standard Course,84,Yes
+Riya Deshmukh,25,Male,SocialPrachar,Software Testing,Offline,5 months,8,1,89,92,AWS Specialization,87,No
+Priya Tripathi,26,Female ,SocialPrachar,AI &ML,Online,5 months,10,,51,89,Harvard University Professional Certificate,65,Yes
+Kabir Pandey,22,Female ,Naresh i technologies,Robotics,Online,6 months ,5,1,99,72,IIT Madras Standard Course,64,No
+Om Nair,25,Female ,Naresh i technologies,Data Science,Offline,7 months,8,1,60,86,Harvard University Professional Certificate,98,Yes
+Pooja Deshmukh,23,Male,SocialPrachar,Cloud Computing,Offline,6 months,10,3,56,100,Harvard University Professional Certificate,80,Yes
+Aarohi Kapoor,22,Male,Naresh i technologies,Data Science,Online,5 months,7,1,65,73,No Certification,80,No
+Harsh Deshmukh,24,Female ,SocialPrachar,Web Development,Offline,6 months,9,2,39,74,No Certification,89,No
+Jhanvi Kapoor,,Female ,SocialPrachar,AI &ML,Offline,7 months,10,1,45,75,NASSCOM Certification,85,Yes
+Shivansh Verma,22,Female ,SocialPrachar,Data Analytics,Online,8 months,10,1,58,90,No Certification,100,Yes
+Ananya Venkatesh,22,Male,Naresh i technologies,Cybersecurity,Online,,10,3,53,98,No Certification,74,No
+Jhanvi Mehta,22,Male ,SocialPrachar,Python Programming,Online,5 months,7,3,13,95,AWS Specialization,80,Yes
+Ishita Malhotra,22,Male,Naresh i technologies,Software Testing,Offline,5 months,6,1,31,88,No Certification,79,No
+Kunal Gupta,22,Female ,Naresh i technologies,Python Programming,Offline,6 months ,6,1,53,97,No Certification,81,No
+Krishna Bhat,22,Female ,Naresh i technologies,Cloud Computing,Offline,7 months,5,2,1,93,No Certification,63,No
+Shivansh Deshmukh,22,Female ,Naresh i technologies,Software Testing,Offline,6 months,10,1,,79,IIT Madras Standard Course,74,Yes
+Ishita Gupta,23,Male,SocialPrachar,Cloud Computing,Online,5 months,9,2,49,73,Harvard University Professional Certificate,92,Yes
+Yash Mehta,25,Male,Levelup,AI &ML,Online,6 months,7,2,61,99,No Certification,91,No
+Sanya Malhotra,21,Female ,SocialPrachar,Python Programming,Offline,7 months,7,1,66,83,IIT Madras Standard Course,89,No
+Gayatri Pillai,22,Female ,SocialPrachar,Cloud Computing,Online,8 months,10,1,77,98,AWS Specialization,82,Yes
+Om Iyer,,Female ,SocialPrachar,Software Testing,Offline,6 months,8,1,64,98,No Certification,84,No
+Neha Sharma,24,Male,Levelup,Data Analytics,Offline,5 months,9,1,58,93,NASSCOM Certification,95,Yes
+Jhanvi Iyer,24,Male ,Levelup,Software Testing,Offline,5 months,5,2,86,71,AWS Specialization,79,No
+Kunal Nair,25,Male,SocialPrachar,Cloud Computing,Online,6 months ,9,1,91,96,AWS Specialization,76,No
+Kabir Chopra,23,Female ,SocialPrachar,Ethical Hacking,Offline,7 months,10,2,71,87,No Certification,85,Yes
+Rudra Iyer,26,Female ,Levelup,Data Science,Online,6 months,10,1,5,83,NASSCOM Certification,85,No
+Pooja Malhotra,24,Female ,Naresh i technologies,Data Analytics,Offline,5 months,5,2,97,85,IIT Madras Standard Course,92,Yes
+Sanya Tripathi,25,Male,SocialPrachar,Software Testing,Offline,6 months,6,1,43,87,No Certification,90,Yes
+Suman Sharma,22,Male,Levelup,Cloud Computing,Online,7 months,9,2,96,71,IIT Madras Standard Course,83,No
+Harsh Gowda,25,Female ,Naresh i technologies,Data Analytics,Online,8 months,,2,18,98,No Certification,98,No
+Sanya Naidu,26,Female ,SocialPrachar,Software Testing,Offline,6 months,7,3,19,78,AWS Specialization,86,Yes
+Aditya Mehta,22,Female ,Naresh i technologies,Data Science,Online,5 months,7,2,52,70,Harvard University Professional Certificate,74,Yes
+Aryan Chopra,,Male,Naresh i technologies,AI &ML,Offline,5 months,7,3,89,70,IIT Madras Standard Course,89,No
+Isha Iyer,23,Male ,Levelup,Software Testing,Online,6 months ,5,2,22,82,No Certification,85,No
+Diya Tripathi,22,Male,SocialPrachar,Cloud Computing,Online,7 months,5,3,13,79,No Certification,71,No
+Shivansh Naidu,24,Female ,Naresh i technologies,Web Development,Online,6 months,6,3,5,99,AWS Specialization,72,Yes
+Sai Pandey,25,Female ,Levelup,Robotics,Offline,5 months,9,2,0,83,No Certification,86,No
+Suman Chopra,22,Female ,Naresh i technologies,Cloud Computing,Online,6 months,7,1,77,86,No Certification,63,No
+Kunal Naidu,22,Male,Naresh i technologies,Software Testing,Offline,7 months,8,,84,79,NASSCOM Certification,99,No
+Sai Nair,22,Male,Naresh i technologies,Python Programming,Offline,8 months,9,2,64,100,IIT Madras Standard Course,78,No
+Arjun Bhat,22,Female ,SocialPrachar,Robotics,Offline,6 months,9,3,81,88,No Certification,69,Yes
+Samar Gowda,22,Female ,Naresh i technologies,Software Testing,Offline,5 months,8,1,15,92,No Certification,77,Yes
+Samar Pillai,22,Female ,Levelup,Ethical Hacking,Online,6 months,10,1,31,85,NASSCOM Certification,81,No
+Aditya Kulkarni,22,Male,SocialPrachar,Data Science,Offline,5 months,6,2,46,99,NASSCOM Certification,79,No
+Arjun Gowda,23,Male ,Naresh i technologies,AI &ML,Online,6 months,5,1,10,78,No Certification,74,No
+Nirav Joshi,25,Male,Naresh i technologies,Python Programming,Online,7 months,10,3,45,97,No Certification,83,No
+Vivaan Nair,21,Female ,Naresh i technologies,Robotics,Offline,8 months,10,2,65,92,No Certification,62,No
+Om Venkatesh,22,Female ,SocialPrachar,Data Science,Online,6 months,8,3,95,87,IIT Madras Standard Course,80,No
+Isha Reddy,24,Female ,SocialPrachar,AI &ML,Online,5 months,5,2,16,85,No Certification,84,Yes
+Shivansh Venkatesh,24,Male,Levelup,AI &ML,Offline,5 months,,1,57,98,NASSCOM Certification,81,No
+Aryan Joshi,,Male,SocialPrachar,Cybersecurity,Online,6 months ,8,3,88,99,IIT Madras Standard Course,73,No
+Harsh Pillai,25,Female ,SocialPrachar,Ethical Hacking,Offline,7 months,7,1,97,89,IIT Madras Standard Course,70,Yes
+Kunal Malhotra,23,Female ,SocialPrachar,Data Science,Online,6 months,8,3,,85,AWS Specialization,72,Yes
+Diya Verma,26,Female ,Levelup,Data Analytics,Offline,5 months,9,1,16,77,NASSCOM Certification,83,No
+Aditya Sharma,24,Male,Naresh i technologies,Web Development,Offline,6 months,9,2,32,92,NASSCOM Certification,63,No
+Rudra Joshi,25,Male ,Levelup,Cloud Computing,Offline,7 months,6,1,31,95,Harvard University Professional Certificate,76,Yes
+Sai Pillai,22,Male,Levelup,Ethical Hacking,Offline,8 months,9,2,54,77,AWS Specialization,78,Yes
+Yash Nair,25,Female ,Levelup,Cloud Computing,Online,6 months,5,2,94,70,No Certification,75,No
+Arjun Deshmukh,26,Female ,Levelup,AI &ML,Offline,5 months,10,1,22,75,No Certification,95,No
+Aadhya Iyer,22,Female ,Naresh i technologies,Python Programming,Online,5 months,6,2,48,71,No Certification,82,Yes
+Shruti Naidu,25,Male,Levelup,Software Testing,Offline,6 months ,,1,63,94,AWS Specialization,65,No
+Meera Nair,23,Male,Levelup,Software Testing,Offline,7 months,9,1,6,91,No Certification,86,No
+Gayatri Nair,22,Female ,Levelup,Python Programming,Offline,6 months,8,3,42,73,Harvard University Professional Certificate,65,No
+Yash Naidu,24,Female ,SocialPrachar,AI &ML,Online,5 months,10,1,96,76,AWS Specialization,78,Yes
+Aarohi Tripathi,25,Female ,SocialPrachar,AI &ML,Online,6 months,5,3,92,98,IIT Madras Standard Course,80,No
+Meera Sharma,,Male,SocialPrachar,Cybersecurity,Online,7 months,8,2,70,79,AWS Specialization,100,Yes
+Jhanvi Reddy,22,Male ,Naresh i technologies,Web Development,Offline,8 months,6,1,7,84,No Certification,69,No
+Isha Verma,22,Male,Levelup,Web Development,Offline,6 months,6,2,,85,No Certification,97,No
+Neha Mehta,22,Female ,SocialPrachar,Python Programming,Online,5 months,8,1,86,94,No Certification,78,Yes
+Sai Gowda,22,Female ,Naresh i technologies,Cloud Computing,Online,5 months,8,2,72,71,Harvard University Professional Certificate,97,Yes
+Vikram Sharma,22,Female ,Levelup,Ethical Hacking,Offline,6 months ,7,3,43,87,NASSCOM Certification,77,No
+Vivaan Chopra,22,Male,Levelup,Cloud Computing,Offline,7 months,8,1,69,95,No Certification,74,No
+Bhavna Naidu,23,Male,Naresh i technologies,Data Analytics,Offline,,8,1,54,78,IIT Madras Standard Course,93,Yes
+Pooja Malhotra,25,Female ,Naresh i technologies,Data Science,Offline,5 months,5,2,20,99,No Certification,91,Yes
+Om Mehta,21,Female ,Naresh i technologies,Cloud Computing,Offline,6 months,6,2,51,82,AWS Specialization,77,No
+Priya Nair,22,Female ,Levelup,Data Analytics,Offline,7 months,6,1,7,96,No Certification,83,Yes
+Gayatri Mehta,24,Male,SocialPrachar,Ethical Hacking,Online,8 months,6,2,38,88,Harvard University Professional Certificate,84,Yes
+Ananya Joshi,24,Male ,SocialPrachar,Cybersecurity,Offline,6 months,7,2,55,93,AWS Specialization,86,No
+Gayatri Reddy,24,Male,Naresh i technologies,Cybersecurity,Offline,5 months,5,2,13,94,AWS Specialization,65,No
+Samar Pillai,25,Female ,Naresh i technologies,Robotics,Online,5 months,10,1,78,77,No Certification,98,Yes
+Sanya Iyer,23,Female ,Levelup,Robotics,Online,6 months ,6,3,98,84,AWS Specialization,92,Yes
+Kabir Pillai,26,Female ,Naresh i technologies,Cloud Computing,Online,7 months,7,3,65,82,AWS Specialization,69,No
+Vivaan Malhotra,24,Male,Naresh i technologies,Cloud Computing,Online,6 months,,3,99,77,No Certification,84,Yes
+Sai Chopra,25,Male,Naresh i technologies,Software Testing,Offline,5 months,7,1,73,98,AWS Specialization,60,No
+Rudra Naidu,22,Female ,SocialPrachar,Data Analytics,Online,6 months,7,3,66,72,No Certification,71,Yes
+Ananya Nair,25,Female ,Levelup,Python Programming,Offline,7 months,8,1,62,81,Harvard University Professional Certificate,72,Yes
+Laksh Tripathi,26,Female ,Levelup,Cybersecurity,Offline,8 months,7,2,33,85,No Certification,87,No
+Radha Bhat,22,Male,Levelup,AI &ML,Online,6 months,5,1,11,96,No Certification,66,Yes
+Aarav Nair,25,Male ,SocialPrachar,Robotics,Offline,5 months,7,2,1,96,No Certification,71,Yes
+Diya Venkatesh,23,Male,Naresh i technologies,Web Development,Online,6 months ,8,3,23,98,No Certification,79,No
+Arjun Gupta,22,Female ,SocialPrachar,Robotics,Online,7 months,5,3,39,84,No Certification,99,Yes
+Kabir Gupta,24,Female ,Naresh i technologies,AI &ML,Online,6 months,6,2,49,85,NASSCOM Certification,65,No
+Kunal Mehta,25,Female ,SocialPrachar,Robotics,Offline,5 months,5,3,36,82,AWS Specialization,90,No
+Neha Verma,22,Male,Levelup,Web Development,Online,6 months,9,3,82,80,No Certification,78,Yes
+Ishita Kapoor,22,Male,Naresh i technologies,Data Science,Offline,7 months,5,1,15,86,No Certification,91,Yes
+Ishita Sharma,22,Female ,Levelup,Robotics,Online,8 months,7,2,,81,IIT Madras Standard Course,70,Yes
+Ishita Tripathi,22,Female ,Levelup,Data Analytics,Online,6 months,6,1,85,81,Harvard University Professional Certificate,78,Yes
+Ishita Pandey,22,Female ,Naresh i technologies,Data Science,Offline,5 months,5,3,48,93,No Certification,74,No
+Suman Venkatesh,22,Male,Levelup,Data Science,Online,5 months,8,1,77,97,IIT Madras Standard Course,91,Yes
+Kabir Verma,22,Male ,Naresh i technologies,Data Science,Online,6 months ,6,2,13,81,AWS Specialization,69,Yes
+Aadhya Chopra,23,Male,SocialPrachar,Robotics,Offline,7 months,8,2,66,91,No Certification,64,No
+Jhanvi Kulkarni,,Female ,SocialPrachar,Cloud Computing,Offline,6 months,,2,84,100,IIT Madras Standard Course,63,No
+Pooja Deshmukh,21,Female ,SocialPrachar,Robotics,Online,5 months,7,2,93,73,AWS Specialization,61,No
+Ananya Gupta,22,Female ,SocialPrachar,Python Programming,Online,6 months,10,2,63,99,AWS Specialization,88,No
+Kunal Chopra,24,Male,SocialPrachar,Software Testing,Online,7 months,8,3,32,74,No Certification,64,No
+Tanvi Pillai,24,Male,Levelup,Software Testing,Online,8 months,8,2,74,76,IIT Madras Standard Course,75,No
+Yash Tripathi,24,Female ,Levelup,Data Science,Online,6 months,7,1,89,98,AWS Specialization,82,Yes
+Harsh Chopra,25,Female ,Levelup,Python Programming,Offline,5 months,8,3,89,73,NASSCOM Certification,77,Yes
+Bhavna Kapoor,23,Female ,Levelup,Software Testing,Online,5 months,6,2,6,79,No Certification,66,No
+Rudra Mehta,26,Male,Levelup,Web Development,Offline,6 months ,7,3,18,70,No Certification,86,No
+Vivaan Nair,24,Male ,SocialPrachar,Cloud Computing,Offline,7 months,10,2,17,95,No Certification,78,Yes
+Aarav Chopra,25,Male,Tech Academy,Robotics,Online,6 months,7,2,,99,No Certification,62,No
+Rudra Pandey,22,Female ,SocialPrachar,Web Development,Online,5 months,8,2,16,88,No Certification,71,No
+Nirav Nair,25,Female ,SocialPrachar,Ethical Hacking,Online,6 months,5,2,49,99,NASSCOM Certification,73,No
+Neha Reddy,26,Female ,SocialPrachar,Data Science,Online,7 months,8,2,84,92,No Certification,71,No
+Vivaan Chopra,22,Male,SocialPrachar,Data Science,Online,8 months,6,3,58,92,IIT Madras Standard Course,70,No
+Neha Gowda,25,Male,Naresh i technologies,Cloud Computing,Offline,6 months,8,2,62,90,AWS Specialization,81,No
+Ishita Deshmukh,23,Female ,Tech Academy,Data Analytics,Offline,5 months,7,3,43,98,No Certification,73,Yes
+Aditya Verma,22,Female ,SocialPrachar,Ethical Hacking,Offline,5 months,10,1,30,100,No Certification,95,No
+Sai Venkatesh,24,Female ,Tech Academy,Web Development,Offline,6 months ,8,1,23,84,No Certification,83,No
+Sai Naidu,25,Male,Tech Academy,AI &ML,Offline,7 months,6,1,26,91,No Certification,94,Yes
+Om Gupta,22,Male ,Tech Academy,Web Development,Online,6 months,8,3,71,99,Harvard University Professional Certificate,94,Yes
+Nirav Bhat,22,Male,SocialPrachar,Data Science,Online,5 months,7,2,100,83,IIT Madras Standard Course,61,No
+Arjun Nair,22,Female ,Levelup,Web Development,Offline,6 months,10,3,37,76,No Certification,75,Yes
+Meera Pandey,22,Female ,Levelup,Data Analytics,Offline,7 months,10,3,74,99,NASSCOM Certification,60,Yes
+Vikram Gupta,22,Female ,Levelup,Web Development,Online,8 months,8,3,59,94,No Certification,85,No
+Dev Deshmukh,22,Male,Levelup,Python Programming,Online,6 months,9,1,75,91,Harvard University Professional Certificate,66,No
+Vivaan Nair,22,Male,Tech Academy,Robotics,Online,5 months,8,3,59,87,No Certification,98,No
+Krishna Malhotra,23,Female ,Levelup,Cloud Computing,Offline,5 months,10,2,93,81,Harvard University Professional Certificate,65,Yes
+Vikram Tripathi,25,Female ,SocialPrachar,Python Programming,Online,6 months ,9,1,77,96,No Certification,60,No
+Vikram Pandey,21,Female ,SocialPrachar,Data Science,Online,7 months,8,2,96,98,No Certification,92,No
+Rohan Verma,,Male,SocialPrachar,Web Development,Offline,6 months,8,3,77,79,No Certification,63,No
+Yash Sharma,24,Male ,Levelup,Data Science,Offline,5 months,5,2,18,71,Harvard University Professional Certificate,73,No
+Rudra Verma,24,Male,Tech Academy,Data Science,Online,6 months,8,2,38,72,No Certification,97,Yes
+Radha Mehta,24,Female ,SocialPrachar,Cloud Computing,Online,7 months,7,3,22,78,No Certification,82,Yes
+Krishna Sharma,25,Female ,Levelup,Data Analytics,Offline,8 months,,3,47,73,No Certification,84,No
+Priya Gupta,23,Female ,SocialPrachar,Cybersecurity,Online,6 months,6,2,59,83,No Certification,74,Yes
+Meera Mehta,26,Male,Levelup,Ethical Hacking,Offline,5 months,6,3,56,72,No Certification,98,No
+Bhavna Malhotra,24,Male,SocialPrachar,Cloud Computing,Online,7 months,9,1,24,72,No Certification,100,Yes
+Kunal Reddy,25,Female ,Levelup,Ethical Hacking,Online,6 months,6,2,37,80,No Certification,74,No
+Kavya Tripathi,22,Female ,SocialPrachar,Web Development,Online,5 months,8,2,27,91,No Certification,90,Yes
+Vikram Bhat,25,Female ,Levelup,Python Programming,Offline,6 months,10,1,6,99,No Certification,84,Yes
+Suman Deshmukh,26,Male,Levelup,Cloud Computing,Offline,7 months,10,1,64,89,NASSCOM Certification,93,No
+Kunal Kapoor,22,Male ,SocialPrachar,Python Programming,Offline,8 months,8,1,80,70,IIT Madras Standard Course,99,Yes
+Riya Bhat,25,Male,Levelup,Data Science,Online,6 months,6,1,48,98,No Certification,99,Yes
+Radha Gupta,23,Female ,SocialPrachar,Python Programming,Offline,5 months,7,2,93,79,No Certification,90,No
+Arjun Deshmukh,22,Female ,SocialPrachar,AI &ML,Offline,5 months,10,1,8,96,No Certification,89,Yes
+Aarohi Gupta,24,Female ,SocialPrachar,Robotics,Offline,6 months ,9,1,6,88,No Certification,77,Yes
+Priya Pandey,25,Male,SocialPrachar,Robotics,Online,7 months,10,3,73,80,No Certification,68,No
+Priya Malhotra,,Male,SocialPrachar,Cybersecurity,Offline,6 months,7,2,69,76,No Certification,100,Yes
+Pooja Nair,22,Female ,Tech Academy,Robotics,Offline,5 months,7,2,27,89,No Certification,61,Yes
+Vikram Pandey,22,Female ,SocialPrachar,Software Testing,Offline,6 months,10,2,74,96,No Certification,76,Yes
+Diya Tripathi,22,Female ,SocialPrachar,Ethical Hacking,Online,7 months,5,1,32,88,Harvard University Professional Certificate,80,Yes
+Nirav Verma,22,Male,SocialPrachar,Cybersecurity,Online,8 months,7,3,32,83,No Certification,70,No
+Sanya Nair,22,Male ,Levelup,AI &ML,Offline,6 months,8,1,19,82,Harvard University Professional Certificate,72,Yes
+Shivansh Mehta,22,Male,Levelup,Data Analytics,Offline,5 months,10,3,88,90,NASSCOM Certification,77,No
+Dev Gupta,23,Female ,SocialPrachar,Cloud Computing,Online,5 months,6,1,19,73,No Certification,91,No
+Diya Venkatesh,25,Female ,SocialPrachar,Robotics,Online,6 months ,6,3,8,96,No Certification,60,No
+Aadhya Kulkarni,21,Female ,SocialPrachar,Cybersecurity,Online,7 months,8,3,7,76,No Certification,82,No
+Shivansh Verma,22,Male,SocialPrachar,Data Analytics,Offline,6 months,10,3,65,79,No Certification,75,No
+Rudra Sharma,24,Male,Levelup,Python Programming,Online,,5,3,71,76,Harvard University Professional Certificate,76,No
+Ishita Malhotra,24,Female ,Levelup,Software Testing,Online,6 months,7,2,72,95,NASSCOM Certification,79,Yes
+Priya Sharma,24,Female ,CyberSecure Institute,Robotics,Offline,7 months,7,2,98,75,AWS Specialization,82,Yes
+Diya Malhotra,25,Female ,SocialPrachar,Software Testing,Offline,8 months,8,1,8,77,No Certification,83,No
+Shivansh Naidu,23,Male,Levelup,Web Development,Offline,6 months,7,2,0,86,No Certification,60,Yes
+Neha Iyer,26,Male ,Tech Academy,Robotics,Offline,5 months,7,3,85,87,IIT Madras Standard Course,83,No
+Ishita Bhat,24,Male,CyberSecure Institute,AI &ML,Offline,5 months,6,3,4,86,No Certification,87,No
+Arjun Nair,25,Female ,Tech Academy,AI &ML,Online,6 months ,8,2,100,79,Harvard University Professional Certificate,87,Yes
+Dev Pandey,25,Female ,CodeMasters,Python Programming,Offline,7 months,10,3,30,89,No Certification,80,No
+Laksh Gupta,26,Female ,CyberSecure Institute,Data Science,Online,6 months,6,2,1,81,No Certification,86,Yes
+Kabir Mehta,22,Male,Tech Academy,Cloud Computing,Online,5 months,7,3,50,85,No Certification,65,Yes
+Kabir Mehta,25,Male,Tech Academy,Cybersecurity,Offline,6 months,5,2,58,83,No Certification,67,No
+Vivaan Kapoor,23,Female ,SocialPrachar,AI &ML,Offline,7 months,10,3,22,88,Harvard University Professional Certificate,87,Yes
+Isha Gowda,22,Female ,SocialPrachar,Python Programming,Online,8 months,8,3,100,81,NASSCOM Certification,80,No
+Rohan Kapoor,24,Female ,CyberSecure Institute,Data Science,Offline,6 months,5,3,99,73,No Certification,78,No
+Aadhya Iyer,25,Male,SocialPrachar,Robotics,Online,5 months,7,2,5,74,No Certification,72,No
+Aarav Sharma,22,Male ,Tech Academy,Ethical Hacking,Offline,5 months,7,3,,92,No Certification,80,No
+Isha Kapoor,22,Male,Tech Academy,Robotics,Online,6 months ,8,2,68,98,No Certification,63,No
+Vikram Kulkarni,22,Female ,SocialPrachar,Robotics,Online,7 months,7,2,60,85,No Certification,94,No
+Harsh Verma,22,Female ,SocialPrachar,Cloud Computing,Online,6 months,9,3,86,77,No Certification,60,No
+Jhanvi Mehta,22,Female ,SocialPrachar,Data Analytics,Offline,5 months,10,3,27,78,No Certification,77,No
+Harsh Kapoor,22,Male,SocialPrachar,Cybersecurity,Online,6 months,9,2,35,73,No Certification,84,Yes
+Gayatri Gupta,22,Male,CodeMasters,Python Programming,Online,7 months,8,2,68,81,IIT Madras Standard Course,76,No
+Harsh Deshmukh,23,Female ,CyberSecure Institute,AI &ML,Offline,8 months,8,2,19,73,No Certification,97,No
+Vivaan Gowda,25,Female ,SocialPrachar,Data Analytics,Online,6 months,7,3,1,85,Harvard University Professional Certificate,69,Yes
+Sanya Kapoor,21,Female ,Tech Academy,Software Testing,Online,5 months,10,2,76,81,No Certification,100,No
+Radha Bhat,22,Male,Tech Academy,Cloud Computing,Offline,6 months ,5,1,57,85,AWS Specialization,81,No
+Aryan Venkatesh,24,Male ,CodeMasters,Cybersecurity,Offline,7 months,5,1,89,92,No Certification,66,Yes
+Vivaan Kulkarni,24,Male,CyberSecure Institute,AI &ML,Online,6 months,7,1,35,83,No Certification,87,No
+Tanvi Deshmukh,24,Female ,Tech Academy,Robotics,Offline,5 months,5,1,77,99,No Certification,93,Yes
+Aryan Joshi,25,Female ,SocialPrachar,Ethical Hacking,Offline,6 months,10,2,81,83,Harvard University Professional Certificate,92,No
+Suman Chopra,23,Female ,SocialPrachar,Cloud Computing,Offline,7 months,7,3,39,87,AWS Specialization,99,No
+Kunal Deshmukh,26,Male,SocialPrachar,Data Analytics,Offline,8 months,5,1,82,82,IIT Madras Standard Course,66,No
+Priya Mehta,24,Male,Tech Academy,Data Science,Offline,6 months,5,3,99,100,No Certification,77,No
+Aditya Kulkarni,25,Female ,CyberSecure Institute,Robotics,Offline,5 months,6,2,91,97,NASSCOM Certification,88,No
+Priya Chopra,22,Female ,CodeMasters,Web Development,Online,5 months,5,1,35,82,No Certification,81,No
+Yash Chopra,25,Female ,SocialPrachar,Ethical Hacking,Offline,6 months ,5,3,38,72,IIT Madras Standard Course,66,Yes
+Kunal Gupta,26,Male,CyberSecure Institute,Data Science,Offline,7 months,6,2,10,87,No Certification,67,No
+Ananya Reddy,22,Male ,SocialPrachar,Data Analytics,Online,6 months,10,2,99,71,NASSCOM Certification,60,No
+Jhanvi Nair,25,Male,CyberSecure Institute,Web Development,Online,5 months,9,3,86,97,No Certification,68,Yes
+Harsh Reddy,23,Female ,Tech Academy,Web Development,Offline,6 months,10,1,28,100,No Certification,77,No
+Nirav Naidu,22,Female ,CyberSecure Institute,Web Development,Offline,7 months,8,3,76,85,NASSCOM Certification,100,Yes
+Ananya Gupta,24,Female ,SocialPrachar,Software Testing,Offline,8 months,9,3,68,85,Harvard University Professional Certificate,67,No
+Gayatri Gupta,25,Male,SocialPrachar,Web Development,Online,6 months,10,2,15,94,No Certification,85,No
+Neha Malhotra,22,Male,SocialPrachar,Cloud Computing,Online,5 months,,2,66,86,No Certification,96,Yes
+Om Chopra,22,Female ,CodeMasters,AI &ML,Offline,5 months,5,1,73,82,IIT Madras Standard Course,80,Yes
+Meera Malhotra,22,Female ,Tech Academy,Python Programming,Online,6 months ,7,2,95,88,IIT Madras Standard Course,88,No
+Riya Bhat,22,Female ,SocialPrachar,AI &ML,Offline,7 months,6,2,46,80,NASSCOM Certification,66,Yes
+Arjun Gowda,22,Male,SocialPrachar,Software Testing,Online,6 months,6,3,43,98,NASSCOM Certification,84,Yes
+Radha Tripathi,22,Male ,CodeMasters,Cybersecurity,Offline,5 months,10,2,72,74,IIT Madras Standard Course,86,No
+Samar Nair,22,Male,SocialPrachar,Ethical Hacking,Online,6 months,8,1,26,96,NASSCOM Certification,95,No
+Rohan Gowda,23,Female ,SocialPrachar,AI &ML,Offline,7 months,9,3,65,70,NASSCOM Certification,66,Yes
+Priya Chopra,25,Female ,Tech Academy,Web Development,Online,8 months,9,3,99,74,Harvard University Professional Certificate,77,No
+Radha Mehta,21,Female ,Tech Academy,Data Science,Offline,6 months,6,3,45,72,Harvard University Professional Certificate,68,No
+Krishna Reddy,22,Male,CodeMasters,Data Analytics,Offline,5 months,10,1,81,80,IIT Madras Standard Course,93,No
+Krishna Malhotra,24,Male,Tech Academy,Software Testing,Online,5 months,10,2,40,85,AWS Specialization,88,No
+Ishita Malhotra,24,Female ,CyberSecure Institute,Cybersecurity,Online,6 months ,7,1,37,70,No Certification,99,No
+Aadhya Malhotra,24,Female ,SocialPrachar,Web Development,Offline,7 months,9,3,94,98,No Certification,85,No
+Rohan Joshi,25,Female ,SocialPrachar,Ethical Hacking,Offline,6 months,7,3,25,78,No Certification,63,Yes
+Kabir Chopra,23,Male,SocialPrachar,Data Science,Offline,5 months,7,2,2,94,No Certification,61,No
+Jhanvi Kapoor,26,Male ,CyberSecure Institute,Ethical Hacking,Online,6 months,6,2,25,74,No Certification,96,No
+Dev Malhotra,24,Male,SocialPrachar,Software Testing,Online,7 months,5,1,17,91,AWS Specialization,97,Yes
+Shruti Iyer,25,Female ,SocialPrachar,AI &ML,Offline,8 months,9,3,70,90,No Certification,70,Yes
+Om Malhotra,22,Female ,SocialPrachar,Software Testing,Online,6 months,8,3,76,96,NASSCOM Certification,74,Yes
+Samar Gupta,25,Female ,CyberSecure Institute,AI &ML,Online,5 months,6,1,58,80,No Certification,86,No
+Diya Pillai,26,Male,Levelup,Cloud Computing,Offline,5 months,10,1,39,91,No Certification,76,No
+Kabir Kapoor,22,Male,CyberSecure Institute,Data Science,Online,6 months ,8,3,100,76,Harvard University Professional Certificate,85,No
+Dev Gowda,25,Female ,CyberSecure Institute,Data Science,Online,7 months,7,1,35,72,No Certification,97,No
+Bhavna Mehta,23,Female ,CyberSecure Institute,Software Testing,Offline,6 months,9,3,,80,NASSCOM Certification,86,No
+Jhanvi Kapoor,22,Female ,CodeMasters,Robotics,Online,5 months,9,1,5,70,No Certification,95,No
+Shivansh Gupta,24,Male,Tech Academy,Python Programming,Offline,6 months,10,2,11,95,No Certification,69,Yes
+Rudra Gowda,25,Male ,Levelup,Data Analytics,Offline,7 months,8,2,30,97,Harvard University Professional Certificate,70,No
+Shivansh Naidu,22,Male,Tech Academy,Robotics,Offline,8 months,5,3,25,83,No Certification,87,Yes
+Rohan Verma,22,Female ,Levelup,Robotics,Offline,6 months,10,3,40,99,No Certification,84,Yes
+Om Reddy,22,Female ,CyberSecure Institute,Web Development,Offline,5 months,8,2,90,99,IIT Madras Standard Course,72,No
+Jhanvi Pillai,22,Female ,CyberSecure Institute,Robotics,Offline,6 months,10,3,13,71,NASSCOM Certification,100,No
+Yash Iyer,22,Male,Levelup,Robotics,Online,5 months,10,2,100,76,IIT Madras Standard Course,66,No
+Rudra Sharma,22,Male,Levelup,Python Programming,Online,6 months,7,2,99,77,No Certification,88,No
+Kavya Malhotra,22,Female ,CodeMasters,Robotics,Online,7 months,7,3,40,98,No Certification,97,Yes
+Rudra Tripathi,23,Female ,Levelup,Web Development,Offline,8 months,6,1,10,93,NASSCOM Certification,78,No
+Vikram Naidu,25,Female ,CodeMasters,Ethical Hacking,Online,6 months,9,1,16,72,No Certification,68,No
+Rudra Tripathi,21,Male,CodeMasters,Robotics,Online,5 months,9,1,23,87,No Certification,82,No
+Ishita Deshmukh,22,Male ,CodeMasters,AI &ML,Offline,,8,1,68,80,IIT Madras Standard Course,79,Yes
+Yash Kulkarni,24,Male,SocialPrachar,Cybersecurity,Online,6 months ,6,3,19,100,No Certification,61,No
+Arjun Deshmukh,24,Female ,SocialPrachar,Robotics,Offline,7 months,9,2,26,87,No Certification,79,No
+Diya Venkatesh,24,Female ,CyberSecure Institute,Web Development,Online,6 months,10,1,64,79,No Certification,70,No
+Sanya Gupta,25,Female ,CyberSecure Institute,AI &ML,Online,5 months,8,3,35,80,IIT Madras Standard Course,88,Yes
+Arjun Chopra,23,Male,CyberSecure Institute,Robotics,Online,6 months,8,1,90,95,No Certification,73,Yes
+Aditya Mehta,26,Male,Levelup,Data Analytics,Offline,7 months,7,3,34,75,AWS Specialization,79,No
+Priya Pandey,24,Female ,SocialPrachar,Software Testing,Online,8 months,9,2,60,70,NASSCOM Certification,64,Yes
+Gayatri Reddy,,Female ,CodeMasters,Web Development,Online,6 months,5,3,4,72,AWS Specialization,94,No
+Arjun Pandey,22,Male,CodeMasters,Cloud Computing,Offline,5 months,8,1,43,96,No Certification,95,Yes
+Rudra Iyer,25,Male ,SocialPrachar,AI &ML,Offline,5 months,7,3,86,73,NASSCOM Certification,94,No
+Om Malhotra,26,Male,SocialPrachar,Ethical Hacking,Online,6 months ,,2,53,98,NASSCOM Certification,96,No
+Isha Gowda,22,Female ,CodeMasters,Ethical Hacking,Offline,7 months,10,3,10,79,No Certification,62,No
+Kunal Kulkarni,25,Female ,Levelup,Data Analytics,Online,6 months,9,3,61,73,Harvard University Professional Certificate,60,Yes
+Rohan Tripathi,23,Female ,Levelup,Data Science,Online,5 months,6,3,77,83,No Certification,65,Yes
+Krishna Iyer,22,Male,SocialPrachar,Web Development,Offline,6 months,6,2,91,95,AWS Specialization,70,No
+Pooja Sharma,24,Male,CyberSecure Institute,Ethical Hacking,Online,7 months,5,3,88,82,Harvard University Professional Certificate,96,Yes
+Tanvi Gupta,25,Female ,Levelup,Web Development,Online,8 months,10,3,62,84,NASSCOM Certification,67,No
+Aryan Malhotra,22,Female ,CodeMasters,AI &ML,Offline,6 months,10,2,62,94,No Certification,81,No
+Isha Gupta,22,Female ,CyberSecure Institute,Web Development,Online,5 months,5,3,74,70,AWS Specialization,98,Yes
+Rudra Tripathi,22,Male,Tech Academy,Web Development,Online,5 months,7,3,45,78,No Certification,67,No
+Arjun Iyer,22,Male ,Tech Academy,Python Programming,Offline,6 months ,8,1,57,77,No Certification,68,Yes
+Tanvi Kulkarni,22,Male,CyberSecure Institute,Software Testing,Offline,7 months,5,2,50,100,NASSCOM Certification,78,Yes
+Bhavna Joshi,22,Female ,CyberSecure Institute,Python Programming,Offline,6 months,8,2,23,74,No Certification,99,No
+Rudra Kapoor,22,Female ,Tech Academy,AI &ML,Offline,5 months,10,1,31,74,No Certification,81,No
+Nirav Reddy,23,Female ,CodeMasters,Robotics,Offline,6 months,8,2,84,78,No Certification,94,No
+Rohan Tripathi,25,Male,Tech Academy,Python Programming,Offline,7 months,8,2,40,86,Harvard University Professional Certificate,81,Yes
+Bhavna Gupta,21,Male,CodeMasters,Web Development,Online,8 months,10,2,24,95,NASSCOM Certification,92,Yes
+Sanya Mehta,22,Female ,SocialPrachar,AI &ML,Offline,6 months,5,1,22,70,No Certification,65,Yes
+Krishna Verma,24,Female ,SocialPrachar,Cybersecurity,Offline,5 months,6,1,33,100,No Certification,94,Yes
+Isha Malhotra,24,Female ,Levelup,Software Testing,Offline,5 months,7,3,68,88,AWS Specialization,99,No
+Suman Venkatesh,24,Male,CodeMasters,Data Analytics,Offline,6 months ,8,1,19,80,NASSCOM Certification,91,Yes
+Jhanvi Chopra,25,Male ,SocialPrachar,Data Science,Online,7 months,9,2,21,100,No Certification,87,No
+Sanya Bhat,23,Male,Levelup,Cloud Computing,Online,6 months,9,1,46,80,NASSCOM Certification,66,Yes
+Priya Chopra,26,Female ,CodeMasters,Software Testing,Online,5 months,5,1,3,82,No Certification,61,Yes
+Kabir Pandey,24,Female ,Levelup,Software Testing,Offline,6 months,6,2,32,75,No Certification,77,No
+Aditya Mehta,25,Female ,SocialPrachar,Data Analytics,Offline,7 months,7,3,30,87,AWS Specialization,76,Yes
+Arjun Pillai,22,Male,CodeMasters,Robotics,Offline,8 months,7,1,9,92,No Certification,61,Yes
+Laksh Gupta,25,Male,CodeMasters,AI &ML,Offline,,5,3,78,98,IIT Madras Standard Course,80,No
+Aadhya Venkatesh,26,Female ,Tech Academy,Cloud Computing,Online,5 months,5,2,16,100,No Certification,98,Yes
+Riya Pandey,22,Female ,Tech Academy,Robotics,Online,6 months ,9,1,67,92,No Certification,61,No
+Om Kapoor,25,Female ,CodeMasters,Data Science,Online,,7,2,24,76,IIT Madras Standard Course,74,No
+Shivansh Mehta,23,Male,Levelup,Data Science,Offline,6 months,8,2,11,77,No Certification,97,No
+Rudra Sharma,22,Male ,SocialPrachar,Robotics,Online,5 months,10,3,3,76,No Certification,72,Yes
+Rohan Sharma,24,Male,SocialPrachar,Cybersecurity,Online,6 months,9,2,4,79,No Certification,81,No
+Krishna Malhotra,25,Female ,CodeMasters,Data Analytics,Offline,7 months,9,3,52,97,IIT Madras Standard Course,81,No
+Harsh Kulkarni,22,Female ,Levelup,Python Programming,Online,8 months,8,1,33,71,NASSCOM Certification,84,No
+Shruti Deshmukh,22,Female ,Levelup,AI &ML,Offline,6 months,5,3,7,98,No Certification,71,Yes
+Jhanvi Pillai,22,Male,Levelup,Python Programming,Online,5 months,5,2,78,96,NASSCOM Certification,94,No
+Meera Joshi,22,Male,Naresh i technologies,Python Programming,Online,5 months,8,2,36,89,No Certification,93,No
+Nirav Kapoor,22,Female ,CodeMasters,Web Development,Online,6 months ,8,2,26,77,No Certification,72,No
+Yash Gupta,22,Female ,CyberSecure Institute,Cloud Computing,Online,7 months,6,1,100,96,IIT Madras Standard Course,70,No
+Tanvi Gupta,22,Female ,CyberSecure Institute,Cybersecurity,Online,6 months,6,1,0,83,No Certification,89,No
+Samar Kulkarni,23,Male,CodeMasters,Ethical Hacking,Offline,5 months,5,2,27,79,NASSCOM Certification,91,Yes
+Shruti Chopra,25,Male ,Naresh i technologies,Software Testing,Online,6 months,6,1,4,71,NASSCOM Certification,98,No
+Aarav Venkatesh,21,Male,Levelup,Web Development,Online,7 months,10,3,73,85,No Certification,95,No
+Neha Verma,22,Female ,Tech Academy,Cloud Computing,Online,8 months,8,1,89,86,AWS Specialization,62,Yes
+Vikram Bhat,24,Female ,Tech Academy,Ethical Hacking,Online,6 months,7,2,15,92,No Certification,97,Yes
+Shruti Deshmukh,24,Female ,Tech Academy,Software Testing,Online,5 months,5,2,22,86,No Certification,75,Yes
+Priya Reddy,24,Male,Levelup,Ethical Hacking,Online,5 months,9,2,88,97,Harvard University Professional Certificate,82,No
+Isha Reddy,25,Male,Levelup,Ethical Hacking,Offline,6 months ,5,2,17,99,No Certification,68,No
+Meera Nair,23,Female ,Tech Academy,Data Analytics,Offline,7 months,5,1,59,71,No Certification,65,Yes
+Diya Reddy,26,Female ,Naresh i technologies,Web Development,Online,6 months,7,3,36,98,No Certification,92,No
+Yash Iyer,24,Female ,Tech Academy,Software Testing,Online,5 months,8,3,93,70,NASSCOM Certification,71,Yes
+Ishita Bhat,25,Male,Levelup,Python Programming,Online,6 months,8,3,42,99,No Certification,98,Yes
+Laksh Iyer,22,Male ,CodeMasters,Cybersecurity,Offline,7 months,7,2,84,76,Harvard University Professional Certificate,98,Yes
+Om Gowda,25,Male,Naresh i technologies,Ethical Hacking,Online,8 months,5,1,68,93,AWS Specialization,96,No
+Rohan Sharma,26,Female ,Levelup,Robotics,Offline,6 months,6,3,59,70,IIT Madras Standard Course,71,Yes
+Diya Venkatesh,22,Female ,Levelup,Data Science,Online,5 months,9,2,73,70,No Certification,98,Yes
+Vivaan Mehta,25,Female ,Naresh i technologies,Data Analytics,Online,5 months,6,2,47,73,Harvard University Professional Certificate,82,Yes
+Tanvi Pandey,23,Male,Levelup,Software Testing,Online,6 months ,6,2,41,71,No Certification,76,No
+Meera Iyer,22,Male,Levelup,AI &ML,Online,7 months,5,3,94,88,IIT Madras Standard Course,96,No
+Bhavna Tripathi,24,Female ,Naresh i technologies,Robotics,Online,6 months,7,3,85,83,IIT Madras Standard Course,88,Yes
+Ananya Malhotra,25,Female ,Levelup,Robotics,Online,5 months,5,1,49,93,IIT Madras Standard Course,78,No
+Vivaan Reddy,22,Female ,Naresh i technologies,Cloud Computing,Online,6 months,5,1,73,94,No Certification,77,No
+Yash Naidu,22,Male,Levelup,Web Development,Online,7 months,9,3,30,73,Harvard University Professional Certificate,86,No
+Pooja Joshi,22,Male ,Naresh i technologies,AI &ML,Offline,8 months,10,1,82,95,AWS Specialization,68,No
+Aditya Joshi,22,Male,AI Hub,Python Programming,Online,6 months,7,2,77,74,No Certification,80,Yes
+Ananya Malhotra,22,Female ,AI Hub,Data Analytics,Offline,5 months,10,3,11,71,No Certification,72,No
+Bhavna Kapoor,22,Female ,Naresh i technologies,Web Development,Offline,5 months,9,3,63,77,No Certification,72,Yes
+Harsh Naidu,22,Female ,AI Hub,Robotics,Online,6 months ,8,3,74,72,No Certification,80,Yes
+Suman Gowda,23,Male,Levelup,Cloud Computing,Online,7 months,9,2,99,95,No Certification,67,No
+Isha Sharma,25,Male,CodeMasters,Python Programming,Online,6 months,5,3,88,79,IIT Madras Standard Course,63,No
+Meera Chopra,21,Female ,Tech Academy,Robotics,Online,5 months,5,2,80,88,NASSCOM Certification,71,No
+Krishna Pandey,22,Female ,AI Hub,AI &ML,Offline,6 months,9,2,85,88,IIT Madras Standard Course,77,No
+Shruti Tripathi,24,Female ,AI Hub,Data Science,Online,7 months,7,1,86,71,No Certification,99,No
+Gayatri Bhat,24,Male,CodeMasters,Ethical Hacking,Online,8 months,5,3,0,90,No Certification,68,Yes
+Rohan Mehta,24,Male ,Naresh i technologies,Cybersecurity,Offline,6 months,6,2,70,87,No Certification,98,No
+Kavya Verma,25,Male,Naresh i technologies,Web Development,Offline,5 months,7,2,13,99,NASSCOM Certification,70,No
+Aarohi Gupta,23,Female ,Tech Academy,Robotics,Online,7 months,5,2,30,100,IIT Madras Standard Course,81,Yes
+Meera Gupta,26,Female ,AI Hub,Python Programming,Online,6 months,5,2,,70,No Certification,70,Yes
+Laksh Pandey,24,Female ,CodeMasters,Data Analytics,Online,5 months,5,1,37,78,No Certification,74,No
+Aarohi Pandey,25,Male,AI Hub,Cybersecurity,Online,6 months,6,3,23,91,NASSCOM Certification,84,Yes
+Kabir Bhat,22,Male,Tech Academy,Data Science,Online,7 months,7,1,12,71,No Certification,91,Yes
+Shruti Deshmukh,25,Female ,AI Hub,AI &ML,Offline,8 months,9,1,96,74,NASSCOM Certification,63,No
+Kavya Bhat,26,Female ,AI Hub,Python Programming,Online,6 months,5,3,85,78,NASSCOM Certification,61,Yes
+Samar Malhotra,22,Female ,Naresh i technologies,Data Science,Online,5 months,9,1,53,90,IIT Madras Standard Course,87,Yes
+Shivansh Naidu,25,Male,CodeMasters,Python Programming,Online,5 months,5,2,32,77,NASSCOM Certification,99,No
+Nirav Reddy,23,Male ,Naresh i technologies,Cybersecurity,Offline,6 months ,7,2,37,81,No Certification,68,Yes
+Riya Pandey,22,Male,Levelup,Cloud Computing,Offline,7 months,6,2,93,97,IIT Madras Standard Course,94,No
+Jhanvi Reddy,24,Female ,AI Hub,Web Development,Online,6 months,6,1,97,89,IIT Madras Standard Course,75,Yes
+Aarohi Nair,25,Female ,Naresh i technologies,Cybersecurity,Online,5 months,10,1,87,83,Harvard University Professional Certificate,95,Yes
+Aditya Chopra,22,Female ,CodeMasters,AI &ML,Offline,6 months,5,1,86,77,Harvard University Professional Certificate,90,No
+Vikram Nair,22,Male,CodeMasters,Cloud Computing,Offline,7 months,10,3,50,96,IIT Madras Standard Course,61,No
+Aditya Deshmukh,22,Male,Naresh i technologies,Robotics,Online,8 months,5,2,28,80,IIT Madras Standard Course,79,Yes
+Sai Malhotra,22,Female ,CodeMasters,Ethical Hacking,Offline,6 months,5,1,81,87,No Certification,97,Yes
+Aryan Kulkarni,22,Female ,Tech Academy,Cybersecurity,Offline,5 months,10,1,46,79,No Certification,74,No
+Kavya Nair,22,Female ,Levelup,Software Testing,Online,5 months,5,3,38,82,No Certification,86,No
+Isha Kulkarni,22,Male,Tech Academy,Python Programming,Offline,6 months ,10,3,83,90,Harvard University Professional Certificate,72,No
+Sai Verma,23,Male ,Levelup,Software Testing,Offline,7 months,7,2,91,79,IIT Madras Standard Course,97,Yes
+Vikram Gowda,25,Male,AI Hub,Data Science,Offline,6 months,5,1,99,81,NASSCOM Certification,89,No
+Ishita Pandey,21,Female ,Tech Academy,Python Programming,Online,5 months,10,3,82,74,AWS Specialization,77,Yes
+Samar Joshi,22,Female ,CodeMasters,Ethical Hacking,Online,6 months,10,1,26,96,No Certification,80,Yes
+Riya Pillai,24,Female ,Tech Academy,Cybersecurity,Online,7 months,9,1,6,99,No Certification,84,No
+Laksh Naidu,24,Male,Levelup,Ethical Hacking,Offline,8 months,8,1,12,88,AWS Specialization,81,No
+Diya Reddy,24,Male,Tech Academy,Data Analytics,Offline,6 months,7,1,1,83,No Certification,96,No
+Kavya Gowda,25,Female ,Tech Academy,AI &ML,Offline,5 months,5,1,17,79,No Certification,81,No
+Vivaan Gupta,23,Female ,Levelup,Cloud Computing,Offline,5 months,6,2,22,100,No Certification,90,No
+Aryan Deshmukh,26,Female ,AI Hub,Data Analytics,Offline,6 months ,10,2,100,84,No Certification,63,Yes
+Riya Pillai,24,Male,Naresh i technologies,Python Programming,Offline,7 months,8,1,81,72,Harvard University Professional Certificate,92,Yes
+Aryan Iyer,25,Male ,AI Hub,Cloud Computing,Offline,6 months,9,2,56,79,NASSCOM Certification,86,Yes
+Rohan Gupta,22,Male,AI Hub,Cybersecurity,Online,5 months,6,3,77,74,AWS Specialization,85,No
+Shivansh Deshmukh,25,Female ,AI Hub,Cybersecurity,Offline,6 months,5,3,28,87,No Certification,74,No
+Priya Iyer,26,Female ,Levelup,Web Development,Online,7 months,10,2,81,84,Harvard University Professional Certificate,66,No
+Yash Kulkarni,22,Female ,AI Hub,Ethical Hacking,Online,8 months,6,1,21,80,No Certification,79,Yes
+Jhanvi Sharma,25,Male,Tech Academy,Data Science,Online,6 months,6,3,70,88,IIT Madras Standard Course,83,No
+Dev Naidu,23,Male,SocialPrachar,Software Testing,Online,5 months,6,1,85,83,IIT Madras Standard Course,85,Yes
+Ananya Kulkarni,22,Female ,SocialPrachar,Web Development,Online,5 months,10,3,6,78,No Certification,62,Yes
+Nirav Gupta,24,Female ,SocialPrachar,AI &ML,Offline,6 months ,8,2,100,89,No Certification,70,Yes
+Rudra Malhotra,25,Female ,AI Hub,Data Analytics,Offline,7 months,5,1,64,99,No Certification,82,No
+Sanya Bhat,22,Male,Tech Academy,Robotics,Offline,6 months,8,3,88,95,IIT Madras Standard Course,82,Yes
+Krishna Reddy,22,Male ,CodeMasters,Software Testing,Offline,5 months,10,3,97,75,AWS Specialization,70,Yes
+Vikram Naidu,22,Male,Tech Academy,Cloud Computing,Online,6 months,6,3,15,73,No Certification,82,Yes
+Aarav Pillai,22,Female ,AI Hub,Web Development,Online,7 months,6,3,85,77,NASSCOM Certification,70,No
+Aditya Kapoor,22,Female ,Naresh i technologies,AI &ML,Online,8 months,10,1,7,71,No Certification,90,Yes
+Suman Bhat,22,Female ,Tech Academy,Cloud Computing,Offline,6 months,10,2,76,75,IIT Madras Standard Course,90,No
+Kabir Verma,22,Male,AI Hub,Cybersecurity,Offline,5 months,,1,32,85,Harvard University Professional Certificate,77,No
+Shruti Gowda,23,Male,SocialPrachar,Cloud Computing,Offline,6 months ,8,3,4,77,AWS Specialization,85,Yes
+Samar Gowda,25,Female ,Naresh i technologies,Robotics,Offline,7 months,10,1,76,81,AWS Specialization,64,Yes
+Shivansh Kulkarni,21,Female ,Tech Academy,Robotics,Online,6 months,5,2,32,81,No Certification,76,No
+Nirav Pandey,22,Female ,Tech Academy,Python Programming,Offline,5 months,8,3,71,94,IIT Madras Standard Course,71,Yes
+Dev Reddy,24,Male,Naresh i technologies,Software Testing,Offline,6 months,7,2,85,79,NASSCOM Certification,100,No
+Yash Joshi,24,Male ,Naresh i technologies,Ethical Hacking,Offline,7 months,7,3,100,74,AWS Specialization,65,Yes
+Aarohi Joshi,24,Male,AI Hub,Data Analytics,Offline,8 months,7,2,97,86,No Certification,79,Yes
+Meera Sharma,25,Female ,AI Hub,Data Science,Offline,6 months,8,3,51,84,Harvard University Professional Certificate,89,Yes
+Nirav Tripathi,23,Female ,AI Hub,Data Analytics,Online,5 months,10,3,99,98,AWS Specialization,99,No
+Aadhya Reddy,26,Female ,AI Hub,Robotics,Online,5 months,9,2,45,89,No Certification,92,No
+Suman Iyer,24,Male,Tech Academy,Web Development,Offline,6 months ,8,3,16,93,No Certification,92,No
+Aditya Venkatesh,25,Male,SocialPrachar,Data Science,Online,7 months,7,2,19,78,No Certification,74,Yes
+Rudra Sharma,25,Female ,AI Hub,Web Development,Offline,6 months,5,2,11,98,IIT Madras Standard Course,89,No
+Kavya Chopra,26,Female ,CodeMasters,Cloud Computing,Offline,5 months,5,3,75,85,AWS Specialization,94,No
+Kavya Pandey,22,Female ,SocialPrachar,Robotics,Online,6 months,9,2,84,100,AWS Specialization,78,Yes
+Sanya Mehta,25,Male,CodeMasters,Software Testing,Online,7 months,7,3,98,75,No Certification,61,Yes
+Nirav Deshmukh,23,Male ,CodeMasters,Web Development,Online,8 months,5,1,55,87,No Certification,93,No
+Riya Nair,22,Male,SocialPrachar,Robotics,Online,6 months,10,2,82,88,AWS Specialization,83,No
+Aryan Mehta,24,Female ,CodeMasters,Data Science,Offline,5 months,10,2,68,70,No Certification,84,Yes
+Krishna Reddy,25,Female ,CodeMasters,Data Analytics,Online,5 months,7,3,39,79,AWS Specialization,99,Yes
+Pooja Chopra,22,Female ,CodeMasters,Cloud Computing,Online,6 months ,9,3,68,85,No Certification,90,No
+Sai Kapoor,22,Male,SocialPrachar,Web Development,Online,7 months,10,2,44,80,No Certification,74,No
+Diya Deshmukh,22,Male,Naresh i technologies,Cloud Computing,Online,6 months,7,3,66,83,No Certification,65,No
+Ishita Sharma,,Female ,CodeMasters,Data Analytics,Online,5 months,5,2,27,75,Harvard University Professional Certificate,82,Yes
+Isha Reddy,22,Female ,AI Hub,Cybersecurity,Offline,6 months,7,1,11,73,IIT Madras Standard Course,74,No
+Priya Joshi,22,Female ,AI Hub,Web Development,Online,7 months,7,3,40,90,No Certification,83,No
+Kabir Bhat,22,Male,AI Hub,Ethical Hacking,Online,8 months,8,1,36,86,No Certification,72,No
+Aryan Pillai,23,Male ,Tech Academy,Robotics,Offline,6 months,6,2,20,83,IIT Madras Standard Course,65,No
+Laksh Verma,25,Male,CodeMasters,Data Science,Online,5 months,6,1,58,94,NASSCOM Certification,95,No
+Suman Malhotra,21,Female ,Naresh i technologies,Cloud Computing,Offline,5 months,5,3,60,87,Harvard University Professional Certificate,66,No
+Gayatri Tripathi,22,Female ,AI Hub,Data Analytics,Offline,6 months ,6,1,36,82,No Certification,66,No
+Yash Nair,24,Female ,CodeMasters,Software Testing,Online,,7,3,24,77,No Certification,77,Yes
+Krishna Sharma,24,Male,Tech Academy,Data Analytics,Offline,6 months,6,2,65,80,Harvard University Professional Certificate,99,No
+Dev Chopra,24,Male,SocialPrachar,Ethical Hacking,Online,5 months,7,1,26,96,No Certification,70,Yes
+Aditya Bhat,25,Female ,AI Hub,Cloud Computing,Offline,6 months,8,1,14,71,AWS Specialization,96,Yes
+Om Reddy,23,Female ,AI Hub,Ethical Hacking,Online,7 months,9,1,66,98,No Certification,87,Yes
+Yash Gowda,26,Female ,CodeMasters,Web Development,Online,8 months,7,2,74,79,Harvard University Professional Certificate,94,No
+Neha Venkatesh,24,Male,CodeMasters,Python Programming,Online,6 months,10,2,90,95,AWS Specialization,63,No
+Vikram Kapoor,25,Male ,Tech Academy,Python Programming,Offline,5 months,6,2,35,77,No Certification,71,No
+Yash Venkatesh,22,Male,CodeMasters,AI &ML,Offline,5 months,7,3,85,98,Harvard University Professional Certificate,89,No
+Tanvi Tripathi,25,Female ,CodeMasters,Cloud Computing,Online,6 months ,7,2,,74,No Certification,96,Yes
+Kavya Sharma,26,Female ,AI Hub,Robotics,Online,7 months,7,3,77,91,No Certification,99,Yes
+Laksh Iyer,22,Female ,Tech Academy,Robotics,Offline,6 months,8,1,39,71,Harvard University Professional Certificate,84,Yes
+Aarav Venkatesh,25,Male,CodeMasters,Cloud Computing,Online,5 months,7,1,65,80,No Certification,63,No
+Kunal Sharma,23,Male,Naresh i technologies,Robotics,Online,6 months,10,2,36,95,No Certification,61,No
+Dev Venkatesh,22,Female ,CodeMasters,Robotics,Online,7 months,7,1,7,80,AWS Specialization,61,No
+Samar Kulkarni,24,Female ,Tech Academy,Cybersecurity,Offline,8 months,10,1,25,81,No Certification,93,No
+Tanvi Chopra,25,Female ,CodeMasters,Data Analytics,Online,6 months,5,2,11,98,AWS Specialization,69,No
+Meera Verma,22,Male,CodeMasters,Web Development,Offline,5 months,6,2,57,78,No Certification,64,No
+Laksh Pandey,22,Male ,SocialPrachar,Data Science,Online,6 months,10,3,89,74,AWS Specialization,100,No
+Sanya Joshi,22,Male,CodeMasters,Data Science,Online,5 months,6,1,69,89,No Certification,75,No
+Dev Pillai,22,Female ,SocialPrachar,Software Testing,Online,6 months,6,3,44,91,Harvard University Professional Certificate,85,No
+Sanya Sharma,22,Female ,Naresh i technologies,AI &ML,Online,7 months,6,3,79,92,No Certification,74,Yes
+Suman Pandey,22,Female ,Tech Academy,Cybersecurity,Online,8 months,8,3,92,70,AWS Specialization,66,No
+Harsh Nair,22,Male,Tech Academy,Python Programming,Offline,6 months,6,2,82,70,IIT Madras Standard Course,88,No
+Krishna Chopra,23,Male,CodeMasters,Software Testing,Offline,,10,1,51,95,Harvard University Professional Certificate,81,Yes
+Sai Bhat,25,Female ,CodeMasters,Cybersecurity,Online,5 months,7,2,48,97,NASSCOM Certification,77,Yes
+Shivansh Nair,21,Female ,Naresh i technologies,AI &ML,Online,6 months ,10,2,70,79,No Certification,83,No
+Vivaan Deshmukh,22,Female ,Naresh i technologies,Python Programming,Offline,7 months,5,3,38,100,No Certification,81,No
+Jhanvi Pillai,24,Male,AI Hub,Robotics,Online,6 months,8,3,56,94,IIT Madras Standard Course,87,Yes
+Meera Sharma,24,Male ,AI Hub,Ethical Hacking,Online,5 months,7,2,4,91,NASSCOM Certification,60,No
+Om Sharma,24,Male,Naresh i technologies,Data Science,Online,6 months,9,1,58,87,AWS Specialization,65,No
+Yash Naidu,25,Female ,AI Hub,AI &ML,Online,7 months,5,3,77,99,Harvard University Professional Certificate,80,No
+Aditya Kapoor,23,Female ,Cloud Innovators,Robotics,Online,8 months,5,2,4,87,No Certification,67,No
+Laksh Chopra,26,Female ,CodeMasters,Cybersecurity,Online,6 months,6,1,18,71,Harvard University Professional Certificate,64,No
+Yash Pillai,24,Male,SocialPrachar,Cybersecurity,Online,5 months,7,3,60,76,AWS Specialization,77,No
+Ishita Sharma,25,Male,AI Hub,Ethical Hacking,Offline,5 months,8,2,47,92,No Certification,97,No
+Om Deshmukh,22,Female ,Cloud Innovators,Python Programming,Offline,6 months ,8,1,17,73,No Certification,68,No
+Arjun Malhotra,25,Female ,CodeMasters,Software Testing,Offline,7 months,9,1,17,85,No Certification,70,No
+Suman Malhotra,26,Female ,Cloud Innovators,Data Science,Offline,6 months,9,2,6,92,No Certification,78,Yes
+Ananya Kapoor,22,Male,CodeMasters,Python Programming,Offline,5 months,9,3,47,84,No Certification,92,No
+Diya Sharma,25,Male ,CyberSecure Institute,Cybersecurity,Offline,6 months,8,3,1,76,No Certification,65,No
+Tanvi Gupta,23,Male,CyberSecure Institute,Data Science,Online,7 months,7,1,67,76,NASSCOM Certification,93,No
+Rohan Malhotra,22,Female ,AI Hub,Cybersecurity,Offline,8 months,,2,9,99,No Certification,75,No
+Aarav Joshi,24,Female ,AI Hub,Cybersecurity,Online,6 months,10,3,89,99,No Certification,100,No
+Om Tripathi,25,Female ,AI Hub,AI &ML,Offline,5 months,8,3,9,92,No Certification,72,Yes
+Kunal Iyer,22,Male,CodeMasters,Ethical Hacking,Offline,5 months,10,3,25,81,No Certification,66,No
+Om Gowda,22,Male,Tech Academy,Data Science,Offline,6 months ,6,3,59,73,No Certification,92,No
+Kunal Bhat,22,Female ,Tech Academy,Python Programming,Offline,7 months,5,2,56,88,NASSCOM Certification,69,No
+Yash Malhotra,22,Female ,CyberSecure Institute,Software Testing,Offline,6 months,5,3,68,81,NASSCOM Certification,78,No
+Arjun Kulkarni,22,Female ,Tech Academy,Data Science,Online,5 months,10,3,68,74,No Certification,73,No
+Om Tripathi,22,Male,CyberSecure Institute,Python Programming,Offline,6 months,8,3,14,75,NASSCOM Certification,65,No
+Laksh Venkatesh,22,Male ,AI Hub,Web Development,Offline,7 months,6,1,88,91,IIT Madras Standard Course,83,No
+Yash Verma,23,Male,Tech Academy,Python Programming,Offline,8 months,5,3,56,100,AWS Specialization,82,No
+Kabir Chopra,25,Female ,CodeMasters,AI &ML,Online,6 months,9,2,16,87,No Certification,98,No
+Gayatri Mehta,21,Female ,Tech Academy,Python Programming,Online,5 months,5,2,49,84,No Certification,87,No
+Om Pandey,22,Female ,Cloud Innovators,Robotics,Offline,5 months,5,2,76,70,No Certification,80,Yes
+Kunal Bhat,24,Male,AI Hub,Software Testing,Online,6 months ,8,2,93,87,No Certification,89,Yes
+Meera Joshi,24,Male,CyberSecure Institute,Cybersecurity,Online,7 months,5,1,10,85,No Certification,68,No
+Om Nair,24,Female ,CodeMasters,Web Development,Offline,6 months,10,1,56,89,AWS Specialization,79,No
+Aditya Mehta,25,Female ,CyberSecure Institute,Ethical Hacking,Online,5 months,6,2,35,98,Harvard University Professional Certificate,61,No
+Sanya Mehta,23,Female ,AI Hub,Python Programming,Online,6 months,7,2,50,79,No Certification,68,No
+Jhanvi Venkatesh,26,Male,Cloud Innovators,Web Development,Online,7 months,7,3,96,72,No Certification,78,No
+Suman Chopra,24,Male ,Tech Academy,Data Science,Offline,8 months,5,2,56,79,No Certification,88,Yes
+Jhanvi Gupta,25,Male,AI Hub,Robotics,Online,6 months,8,3,48,71,No Certification,66,No
+Tanvi Joshi,22,Female ,CodeMasters,Software Testing,Online,5 months,5,2,86,94,Harvard University Professional Certificate,77,No
+Ishita Chopra,25,Female ,Tech Academy,Data Science,Offline,6 months ,7,3,96,93,IIT Madras Standard Course,60,No
+Priya Joshi,26,Female ,AI Hub,Ethical Hacking,Online,7 months,6,2,27,81,Harvard University Professional Certificate,62,Yes
+Om Deshmukh,22,Male,CyberSecure Institute,Data Science,Online,6 months,5,1,56,70,NASSCOM Certification,66,No
+Samar Reddy,25,Male,CyberSecure Institute,AI &ML,Offline,5 months,10,3,94,90,IIT Madras Standard Course,99,Yes
+Tanvi Sharma,23,Female ,Cloud Innovators,Robotics,Online,6 months,10,2,,70,No Certification,98,Yes
+Harsh Venkatesh,22,Female ,Cloud Innovators,Software Testing,Online,7 months,8,2,20,76,NASSCOM Certification,86,No
+Sanya Deshmukh,24,Female ,Tech Academy,Cybersecurity,Offline,8 months,6,1,64,100,No Certification,96,Yes
+Kunal Gupta,25,Male,AI Hub,Data Analytics,Offline,6 months,10,3,51,91,AWS Specialization,77,Yes
+Neha Nair,22,Male ,AI Hub,Ethical Hacking,Offline,5 months,8,2,65,86,Harvard University Professional Certificate,96,Yes
+Isha Kulkarni,22,Male,Tech Academy,Python Programming,Offline,5 months,7,1,91,71,No Certification,88,No
+Neha Kapoor,22,Female ,CyberSecure Institute,AI &ML,Online,,9,1,88,87,AWS Specialization,99,Yes
+Nirav Venkatesh,22,Female ,AI Hub,Web Development,Online,7 months,9,2,50,81,Harvard University Professional Certificate,84,No
+Tanvi Nair,22,Female ,Cloud Innovators,Data Analytics,Online,6 months,8,1,98,74,No Certification,88,Yes
+Samar Chopra,22,Male,Cloud Innovators,Python Programming,Offline,5 months,6,2,11,72,No Certification,79,Yes
+Isha Nair,22,Male,Tech Academy,Robotics,Offline,6 months,7,3,61,98,AWS Specialization,97,No
+Nirav Deshmukh,23,Female ,Tech Academy,Software Testing,Online,7 months,8,3,81,89,No Certification,92,Yes
+Aarav Chopra,25,Female ,Tech Academy,Cybersecurity,Online,8 months,5,1,39,71,NASSCOM Certification,97,Yes
+Arjun Gupta,21,Female ,CyberSecure Institute,Robotics,Offline,6 months,10,2,57,88,No Certification,76,No
+Krishna Iyer,22,Male,Tech Academy,Ethical Hacking,Offline,5 months,6,1,33,75,No Certification,71,No
+Diya Tripathi,24,Male ,AI Hub,Cybersecurity,Online,5 months,6,3,87,70,No Certification,78,No
+Aditya Verma,24,Male,Tech Academy,Web Development,Online,6 months ,6,3,21,92,No Certification,66,No
+Kavya Nair,24,Female ,Tech Academy,Cybersecurity,Offline,7 months,5,3,69,98,No Certification,88,No
+Pooja Pillai,25,Female ,CyberSecure Institute,Data Science,Online,6 months,9,3,65,84,IIT Madras Standard Course,64,No
+Aadhya Naidu,23,Female ,CodeMasters,Web Development,Online,5 months,6,1,14,91,No Certification,65,Yes
+Nirav Kapoor,26,Male,CodeMasters,Robotics,Online,6 months,8,2,90,97,No Certification,85,No
+Riya Gupta,24,Male,AI Hub,Cybersecurity,Online,7 months,8,2,83,92,IIT Madras Standard Course,99,No
+Arjun Kulkarni,,Female ,Tech Academy,Data Science,Offline,8 months,9,1,13,95,No Certification,63,Yes
+Kavya Pandey,25,Female ,Tech Academy,Cloud Computing,Offline,6 months,9,2,2,75,No Certification,60,Yes
+Vivaan Verma,26,Female ,CodeMasters,Robotics,Offline,5 months,5,3,48,75,NASSCOM Certification,67,No
+Pooja Gupta,22,Male,CyberSecure Institute,Robotics,Online,5 months,8,1,68,74,AWS Specialization,86,Yes
+Rudra Venkatesh,25,Male ,Cloud Innovators,Python Programming,Offline,6 months ,10,2,55,75,IIT Madras Standard Course,83,Yes
+Kavya Sharma,23,Male,Tech Academy,AI &ML,Online,7 months,7,1,80,93,No Certification,97,No
+Rudra Mehta,22,Female ,CyberSecure Institute,Data Analytics,Online,6 months,8,3,54,72,No Certification,100,Yes
+Sai Reddy,24,Female ,Cloud Innovators,Data Science,Offline,5 months,7,3,16,85,No Certification,60,Yes
+Aarohi Pandey,25,Female ,CyberSecure Institute,Ethical Hacking,Offline,6 months,7,1,34,73,No Certification,90,No
+Kavya Verma,22,Male,AI Hub,Robotics,Online,7 months,8,3,47,100,No Certification,77,No
+Radha Nair,22,Male,CyberSecure Institute,AI &ML,Offline,8 months,5,3,40,98,No Certification,77,No
+Aditya Gupta,22,Female ,Tech Academy,Web Development,Online,6 months,5,1,49,94,No Certification,84,Yes
+Diya Bhat,22,Female ,CodeMasters,Cybersecurity,Offline,5 months,10,3,91,81,AWS Specialization,86,Yes
+Laksh Venkatesh,22,Female ,Tech Academy,Robotics,Offline,5 months,8,2,76,100,AWS Specialization,77,Yes
+Vikram Mehta,22,Male,AI Hub,Data Analytics,Offline,6 months ,8,1,49,83,Harvard University Professional Certificate,75,No
+Yash Sharma,22,Male ,CodeMasters,Web Development,Online,7 months,7,3,33,79,No Certification,70,Yes
+Ananya Deshmukh,23,Male,Tech Academy,Web Development,Offline,6 months,9,2,78,99,NASSCOM Certification,95,No
+Yash Sharma,25,Female ,CyberSecure Institute,Data Analytics,Offline,5 months,7,1,93,78,Harvard University Professional Certificate,67,Yes
+Vivaan Deshmukh,21,Female ,Tech Academy,Cloud Computing,Online,6 months,8,3,17,91,No Certification,70,Yes
+Harsh Nair,22,Female ,AI Hub,Data Science,Offline,7 months,8,3,21,89,Harvard University Professional Certificate,64,No
+Rohan Verma,24,Male,CodeMasters,Python Programming,Online,8 months,7,1,60,99,No Certification,98,No
+Aarohi Tripathi,24,Male,Cloud Innovators,Software Testing,Offline,6 months,5,2,2,95,AWS Specialization,89,No
+Ishita Sharma,24,Female ,CyberSecure Institute,Ethical Hacking,Online,5 months,10,2,96,73,IIT Madras Standard Course,63,No
+Radha Deshmukh,25,Female ,Tech Academy,AI &ML,Online,7 months,5,3,7,99,No Certification,64,Yes
+Pooja Venkatesh,23,Female ,CodeMasters,AI &ML,Offline,6 months,6,2,29,70,No Certification,77,No
+Sanya Chopra,26,Male,AI Hub,AI &ML,Offline,5 months,9,3,12,95,AWS Specialization,79,No
+Gayatri Nair,24,Male ,Cloud Innovators,Data Science,Online,6 months,6,1,41,74,No Certification,78,Yes
+Neha Sharma,25,Male,CyberSecure Institute,Data Science,Online,7 months,7,1,11,82,No Certification,80,No
+Dev Mehta,22,Female ,CyberSecure Institute,Web Development,Offline,8 months,6,1,16,87,No Certification,66,Yes
+Nirav Deshmukh,25,Female ,Tech Academy,Data Analytics,Online,6 months,7,3,6,73,No Certification,92,Yes
+Aadhya Pillai,26,Female ,AI Hub,Cloud Computing,Online,5 months,8,3,48,87,AWS Specialization,70,Yes
+Yash Bhat,22,Male,AI Hub,Data Analytics,Offline,5 months,9,3,31,83,No Certification,93,No
+Vikram Deshmukh,25,Male,Cloud Innovators,Robotics,Online,6 months ,8,3,16,71,No Certification,92,Yes
+Ananya Venkatesh,23,Female ,CyberSecure Institute,Cybersecurity,Offline,7 months,10,3,60,73,No Certification,98,No
+Kavya Kulkarni,22,Female ,Cloud Innovators,Data Analytics,Online,6 months,7,1,97,83,Harvard University Professional Certificate,79,No
+Diya Deshmukh,24,Female ,Cloud Innovators,Python Programming,Online,5 months,6,1,5,95,No Certification,62,No
+Bhavna Tripathi,25,Male,Cloud Innovators,Cybersecurity,Offline,6 months,10,1,46,99,No Certification,83,No
+Diya Naidu,22,Male ,Cloud Innovators,Robotics,Online,7 months,10,1,13,74,No Certification,94,Yes
+Aarav Naidu,22,Male,CodeMasters,Web Development,Offline,8 months,7,1,83,78,IIT Madras Standard Course,62,Yes
+Jhanvi Mehta,22,Female ,Cloud Innovators,Robotics,Offline,6 months,9,2,70,90,Harvard University Professional Certificate,78,Yes
+Meera Mehta,22,Female ,AI Hub,Data Science,Online,5 months,9,3,35,84,No Certification,72,No
+Harsh Joshi,22,Female ,Tech Academy,Cybersecurity,Offline,,10,2,64,77,No Certification,80,No
+Tanvi Venkatesh,22,Male,CodeMasters,AI &ML,Online,6 months ,9,1,17,95,No Certification,72,No
+Ishita Nair,22,Male,AI Hub,Data Science,Online,7 months,7,2,87,94,No Certification,63,No
+Gayatri Tripathi,23,Female ,Cloud Innovators,Cloud Computing,Offline,6 months,7,3,39,95,No Certification,70,Yes
+Aryan Malhotra,25,Female ,CyberSecure Institute,Robotics,Online,5 months,10,2,84,97,AWS Specialization,79,No
+Krishna Chopra,21,Female ,Tech Academy,Data Science,Online,6 months,8,3,15,91,No Certification,83,Yes
+Kavya Venkatesh,22,Male,CodeMasters,Web Development,Offline,7 months,5,1,72,100,Harvard University Professional Certificate,62,Yes
+Bhavna Venkatesh,24,Male ,AI Hub,Python Programming,Online,8 months,9,3,34,71,AWS Specialization,99,No
+Riya Pillai,24,Male,CodeMasters,Data Science,Online,6 months,6,1,2,76,No Certification,92,No
+Aarav Venkatesh,24,Female ,AI Hub,Cloud Computing,Online,5 months,10,1,44,94,No Certification,61,No
+Rohan Reddy,25,Female ,Cloud Innovators,Python Programming,Offline,5 months,10,3,6,76,No Certification,63,No
+Aadhya Reddy,23,Female ,Tech Academy,Cloud Computing,Offline,6 months ,8,2,64,85,NASSCOM Certification,91,No
+Shivansh Naidu,26,Male,Tech Academy,AI &ML,Offline,7 months,8,2,7,84,No Certification,74,Yes
+Vivaan Naidu,24,Male,CyberSecure Institute,Ethical Hacking,Offline,6 months,10,1,33,88,No Certification,63,Yes
+Om Pandey,25,Female ,Cloud Innovators,AI &ML,Offline,5 months,10,1,52,81,No Certification,69,No
+Isha Gupta,22,Female ,AI Hub,Data Analytics,Offline,6 months,7,1,5,96,Harvard University Professional Certificate,67,No
+Kabir Pandey,25,Male,CodeMasters,Software Testing,Online,7 months,7,3,82,93,No Certification,75,Yes
+Aditya Malhotra,26,Male ,Cloud Innovators,Cybersecurity,Offline,8 months,10,1,22,90,No Certification,86,No
+Meera Pandey,22,Male,CyberSecure Institute,Cloud Computing,Online,6 months,8,3,77,73,Harvard University Professional Certificate,78,No
+Kavya Sharma,25,Female ,Cloud Innovators,Software Testing,Online,5 months,8,2,55,80,No Certification,64,No
+Kabir Chopra,23,Female ,Cloud Innovators,Ethical Hacking,Online,5 months,7,1,20,77,AWS Specialization,95,Yes
+Neha Chopra,,Female ,Cloud Innovators,Python Programming,Online,6 months ,8,1,13,89,No Certification,71,Yes
+Vikram Joshi,24,Male,CodeMasters,AI &ML,Online,7 months,5,1,22,72,No Certification,79,No
+Radha Gowda,25,Male,CodeMasters,Ethical Hacking,Offline,6 months,5,3,95,98,AWS Specialization,73,Yes
+Arjun Gowda,22,Female ,CodeMasters,Data Science,Online,5 months,7,3,70,95,NASSCOM Certification,92,No
+Kavya Kapoor,22,Female ,AI Hub,Robotics,Offline,6 months,7,2,65,80,NASSCOM Certification,66,No
+Rohan Nair,22,Female ,AI Hub,Data Analytics,Online,7 months,5,2,84,98,No Certification,74,No
+Ananya Pillai,22,Male,Tech Academy,AI &ML,Offline,8 months,7,3,51,94,No Certification,64,No
+Om Deshmukh,22,Male ,CodeMasters,Web Development,Offline,6 months,8,1,65,81,AWS Specialization,71,Yes
+Neha Gupta,22,Male,Tech Academy,Cybersecurity,Offline,5 months,6,3,0,80,IIT Madras Standard Course,72,Yes
+Kunal Pillai,22,Female ,CyberSecure Institute,Cloud Computing,Offline,6 months ,8,1,73,88,No Certification,63,Yes
+Gayatri Kapoor,23,Female ,Tech Academy,Cloud Computing,Offline,7 months,6,3,14,80,No Certification,67,Yes
+Bhavna Mehta,25,Female ,AI Hub,Ethical Hacking,Offline,6 months,7,2,28,73,No Certification,64,No
+Laksh Gupta,21,Male,Tech Academy,Software Testing,Offline,5 months,9,2,37,87,No Certification,71,Yes
+Rohan Bhat,22,Male,Cloud Innovators,Ethical Hacking,Offline,6 months,8,3,46,73,Harvard University Professional Certificate,93,Yes
+Aarav Venkatesh,24,Female ,AI Hub,Software Testing,Offline,7 months,9,2,49,92,No Certification,90,Yes
+Arjun Deshmukh,24,Female ,AI Hub,Software Testing,Offline,8 months,10,3,72,98,NASSCOM Certification,87,Yes
+Ananya Pillai,24,Female ,Tech Academy,Data Science,Offline,6 months,10,2,65,78,Harvard University Professional Certificate,61,Yes
+Diya Reddy,25,Male,CyberSecure Institute,Ethical Hacking,Offline,5 months,9,1,84,94,NASSCOM Certification,62,No
+Tanvi Mehta,23,Male ,Tech Academy,Ethical Hacking,Offline,5 months,10,2,28,86,IIT Madras Standard Course,97,No
+Meera Nair,26,Male,CyberSecure Institute,Python Programming,Online,6 months ,9,3,9,97,No Certification,72,Yes
+Bhavna Kapoor,24,Female ,Tech Academy,Robotics,Online,7 months,6,1,21,89,No Certification,94,No
+Kavya Pandey,25,Female ,CodeMasters,Robotics,Online,,7,3,23,80,No Certification,98,No
+Tanvi Malhotra,22,Female ,Tech Academy,Data Analytics,Online,5 months,5,1,2,73,No Certification,76,No
+Ananya Iyer,25,Male,CodeMasters,Cybersecurity,Online,6 months,7,1,21,87,No Certification,88,Yes
+Samar Venkatesh,26,Male,CodeMasters,Software Testing,Offline,7 months,7,3,51,73,IIT Madras Standard Course,100,Yes
+Pooja Reddy,22,Female ,Cloud Innovators,Data Analytics,Offline,8 months,6,2,13,95,No Certification,94,No
+Diya Bhat,25,Female ,CyberSecure Institute,Robotics,Offline,6 months,6,2,62,92,No Certification,97,Yes
+Aditya Nair,23,Female ,AI Hub,Data Science,Offline,5 months,6,3,28,72,NASSCOM Certification,71,No
+Vivaan Kapoor,22,Male,Tech Academy,Ethical Hacking,Online,5 months,8,2,10,70,Harvard University Professional Certificate,97,Yes
+Yash Gupta,24,Male ,CodeMasters,Software Testing,Online,6 months ,10,2,57,70,No Certification,61,Yes
+Sanya Pandey,25,Male,Tech Academy,AI &ML,Online,7 months,8,1,61,84,AWS Specialization,87,No
+Kavya Kulkarni,22,Female ,AI Hub,Cloud Computing,Online,6 months,6,3,67,85,No Certification,70,No
+Bhavna Venkatesh,22,Female ,Cloud Innovators,AI &ML,Offline,5 months,6,2,85,86,NASSCOM Certification,74,Yes
+Rudra Pillai,22,Female ,CodeMasters,Data Science,Online,6 months,5,2,64,78,AWS Specialization,99,No
+Rohan Chopra,22,Male,Cloud Innovators,Robotics,Online,7 months,7,1,12,77,No Certification,60,Yes
+Bhavna Reddy,22,Male,Tech Academy,Cybersecurity,Online,8 months,8,2,61,80,No Certification,95,No
+Radha Joshi,,Female ,AI Hub,AI &ML,Offline,6 months,10,2,13,85,No Certification,64,No
+Vivaan Iyer,22,Female ,CyberSecure Institute,AI &ML,Offline,5 months,6,1,16,93,No Certification,86,No
+Aarav Pillai,23,Female ,CodeMasters,Data Analytics,Offline,5 months,10,3,84,94,Harvard University Professional Certificate,88,No
+Aarohi Verma,25,Male,Tech Academy,Cloud Computing,Offline,6 months ,7,1,27,96,No Certification,94,Yes
+Aarohi Venkatesh,21,Male ,AI Hub,AI &ML,Online,7 months,7,3,45,72,AWS Specialization,87,No
+Kabir Pandey,22,Male,Tech Academy,Web Development,Offline,6 months,9,1,11,97,No Certification,67,No
+Harsh Nair,24,Female ,CodeMasters,Cybersecurity,Offline,5 months,5,2,13,95,Harvard University Professional Certificate,76,Yes
+Neha Gowda,24,Female ,CyberSecure Institute,Python Programming,Online,6 months,6,3,65,70,IIT Madras Standard Course,80,No
+Neha Gupta,24,Female ,Cloud Innovators,Python Programming,Online,7 months,9,1,95,86,Harvard University Professional Certificate,80,No
+Vivaan Mehta,25,Male,AI Hub,Data Analytics,Offline,8 months,9,2,20,87,No Certification,96,Yes
+Tanvi Bhat,23,Male,Tech Academy,Software Testing,Offline,6 months,10,3,0,74,No Certification,68,Yes
+Neha Reddy,26,Female ,Cloud Innovators,Python Programming,Online,5 months,8,2,11,95,No Certification,61,No
+Riya Verma,24,Female ,Cloud Innovators,Cloud Computing,Offline,5 months,6,1,20,84,AWS Specialization,70,Yes
+Aarohi Verma,25,Female ,Cloud Innovators,Data Analytics,Offline,6 months ,7,3,71,88,NASSCOM Certification,73,Yes
+Kunal Pandey,22,Male,CyberSecure Institute,Data Science,Online,7 months,7,3,82,87,NASSCOM Certification,100,No
+Dev Pandey,25,Male ,AI Hub,Cloud Computing,Online,6 months,5,3,2,76,No Certification,72,No
+Arjun Malhotra,26,Male,CodeMasters,Software Testing,Offline,5 months,7,2,35,96,AWS Specialization,74,Yes
+Aryan Joshi,22,Female ,CodeMasters,Cybersecurity,Offline,6 months,6,2,8,86,IIT Madras Standard Course,97,Yes
+Bhavna Gupta,,Female ,CyberSecure Institute,Data Science,Offline,7 months,5,1,84,88,IIT Madras Standard Course,89,Yes
+Krishna Mehta,23,Female ,CodeMasters,Cybersecurity,Online,8 months,8,3,20,89,No Certification,68,No
+Aarohi Reddy,22,Male,Tech Academy,Data Science,Offline,6 months,7,3,33,82,No Certification,96,Yes
+Tanvi Pillai,24,Male,Cloud Innovators,Robotics,Online,5 months,7,3,0,84,No Certification,83,No
+Sanya Reddy,25,Female ,CyberSecure Institute,Cloud Computing,Online,6 months,6,3,3,93,No Certification,76,Yes
+Arjun Sharma,22,Female ,Cloud Innovators,Software Testing,Offline,5 months,9,3,78,99,AWS Specialization,74,Yes
+Isha Iyer,22,Female ,CodeMasters,Data Science,Online,6 months,10,2,58,83,IIT Madras Standard Course,95,No
+Suman Pillai,22,Male,AI Hub,AI &ML,Online,7 months,5,2,22,81,No Certification,91,Yes
+Aarohi Malhotra,22,Male ,Tech Academy,AI &ML,Online,8 months,10,3,14,95,No Certification,97,No
+Krishna Mehta,22,Male,Cloud Innovators,Cybersecurity,Offline,6 months,7,3,21,72,No Certification,96,Yes
+Nirav Malhotra,22,Female ,CodeMasters,Data Analytics,Offline,5 months,8,2,41,94,No Certification,85,No
+Harsh Verma,22,Female ,Tech Academy,Cloud Computing,Online,5 months,7,2,88,74,IIT Madras Standard Course,72,Yes
+Samar Bhat,23,Female ,CodeMasters,Cloud Computing,Online,6 months ,9,1,89,75,Harvard University Professional Certificate,90,No
+Harsh Iyer,25,Male,AI Hub,AI &ML,Offline,7 months,7,3,73,88,NASSCOM Certification,75,Yes
+Om Naidu,21,Male,Cloud Innovators,Web Development,Offline,6 months,7,3,12,72,No Certification,96,No
+Gayatri Mehta,22,Female ,Cloud Innovators,Software Testing,Online,5 months,8,1,81,78,AWS Specialization,94,No
+Neha Pandey,24,Female ,AI Hub,Cloud Computing,Online,6 months,10,2,88,99,IIT Madras Standard Course,86,Yes
+Dev Gowda,24,Female ,Tech Academy,Robotics,Online,7 months,5,2,40,87,NASSCOM Certification,74,No
+Harsh Nair,24,Male,Cloud Innovators,Python Programming,Offline,8 months,7,1,15,95,No Certification,61,Yes
+Harsh Mehta,25,Male ,CodeMasters,Data Analytics,Online,6 months,10,3,32,89,IIT Madras Standard Course,84,Yes
+Laksh Chopra,23,Male,CodeMasters,Python Programming,Offline,5 months,6,2,34,94,No Certification,94,No
+Shruti Kulkarni,26,Female ,CyberSecure Institute,AI &ML,Offline,5 months,7,2,8,86,No Certification,85,Yes
+Aarav Venkatesh,24,Female ,AI Hub,Web Development,Online,6 months ,6,1,42,96,No Certification,67,No
+Sanya Tripathi,25,Female ,CodeMasters,Python Programming,Online,7 months,8,3,72,87,No Certification,70,No
+Kunal Venkatesh,22,Male,CyberSecure Institute,Data Analytics,Offline,6 months,8,1,73,91,AWS Specialization,80,Yes
+Ishita Verma,25,Male,Tech Academy,Web Development,Online,5 months,7,1,5,71,No Certification,76,No
+Pooja Joshi,26,Female ,AI Hub,Robotics,Online,6 months,10,2,1,79,IIT Madras Standard Course,92,No
+Kabir Nair,22,Female ,Cloud Innovators,AI &ML,Offline,7 months,6,1,99,89,IIT Madras Standard Course,91,No
+Vikram Deshmukh,25,Female ,Cloud Innovators,Ethical Hacking,Offline,8 months,8,3,73,86,AWS Specialization,63,No
+Neha Kapoor,23,Male,CodeMasters,Ethical Hacking,Offline,6 months,5,2,51,100,IIT Madras Standard Course,100,No
+Samar Gupta,22,Male ,Cloud Innovators,Python Programming,Offline,5 months,6,3,61,91,NASSCOM Certification,96,Yes
+Arjun Naidu,24,Male,CyberSecure Institute,Ethical Hacking,Online,5 months,9,2,10,97,No Certification,74,No
+Krishna Kulkarni,25,Female ,CyberSecure Institute,Data Analytics,Online,6 months ,8,1,57,90,NASSCOM Certification,68,No
+Kavya Mehta,22,Female ,Cloud Innovators,Cybersecurity,Online,7 months,6,2,78,90,NASSCOM Certification,94,No
+Gayatri Tripathi,22,Female ,Tech Academy,Robotics,Online,6 months,9,3,75,97,Harvard University Professional Certificate,62,No
+Jhanvi Mehta,22,Male,Cloud Innovators,Software Testing,Offline,5 months,10,2,41,73,No Certification,74,Yes
+Kavya Kulkarni,,Male,Tech Academy,Cybersecurity,Offline,6 months,9,1,57,73,IIT Madras Standard Course,79,Yes
+Sanya Gowda,22,Female ,Tech Academy,Ethical Hacking,Offline,7 months,5,2,9,94,IIT Madras Standard Course,78,No
+Jhanvi Gowda,22,Female ,AI Hub,Robotics,Online,8 months,10,2,54,100,AWS Specialization,84,No
+Aadhya Kapoor,22,Female ,Cloud Innovators,Software Testing,Offline,6 months,9,1,59,97,NASSCOM Certification,64,No
+Isha Deshmukh,23,Male,CodeMasters,Cybersecurity,Online,5 months,6,1,31,77,AWS Specialization,71,Yes
+Aarav Pillai,25,Male ,CyberSecure Institute,Cybersecurity,Offline,5 months,5,3,56,80,NASSCOM Certification,70,No
+Aryan Naidu,21,Male,Tech Academy,Cloud Computing,Offline,6 months ,9,2,81,72,No Certification,69,No
+Sai Joshi,22,Female ,Tech Academy,AI &ML,Offline,7 months,9,1,41,73,Harvard University Professional Certificate,99,No
+Aarohi Malhotra,24,Female ,AI Hub,Ethical Hacking,Online,6 months,7,3,0,96,No Certification,65,Yes
+Sanya Joshi,24,Female ,CodeMasters,Cybersecurity,Offline,5 months,7,3,89,79,No Certification,71,Yes
+Suman Pillai,24,Male,CodeMasters,Data Science,Offline,6 months,5,2,46,95,Harvard University Professional Certificate,94,Yes
+Shruti Deshmukh,25,Male,AI Hub,Web Development,Online,7 months,7,3,38,98,No Certification,94,No
+Jhanvi Malhotra,23,Female ,Cloud Innovators,Cybersecurity,Online,8 months,10,2,96,96,AWS Specialization,84,Yes
+Radha Gupta,26,Female ,CodeMasters,AI &ML,Online,6 months,7,3,45,74,No Certification,61,No
+Rohan Chopra,24,Female ,CyberSecure Institute,Robotics,Offline,5 months,9,2,67,76,NASSCOM Certification,70,Yes
+Harsh Chopra,25,Male,CyberSecure Institute,Data Science,Offline,,9,1,91,76,No Certification,71,No
+Aryan Naidu,22,Male ,AI Hub,Ethical Hacking,Offline,7 months,9,1,72,72,No Certification,61,Yes
+Meera Joshi,25,Male,Tech Academy,Python Programming,Online,6 months,8,1,29,75,AWS Specialization,78,Yes
+Nirav Malhotra,26,Female ,CyberSecure Institute,Robotics,Online,5 months,6,1,19,80,AWS Specialization,77,Yes
+Vikram Mehta,22,Female ,AI Hub,Cybersecurity,Offline,6 months,6,3,5,79,No Certification,80,No
+Vikram Tripathi,25,Female ,Cloud Innovators,AI &ML,Online,7 months,7,2,20,88,No Certification,81,Yes
+Aryan Malhotra,23,Male,Cloud Innovators,Cloud Computing,Offline,8 months,6,3,48,98,Harvard University Professional Certificate,87,Yes
+Tanvi Reddy,22,Male,CodeMasters,Data Analytics,Offline,6 months,5,1,75,93,IIT Madras Standard Course,77,No
+Neha Bhat,24,Female ,Tech Academy,Data Science,Online,5 months,9,3,95,99,AWS Specialization,61,No
+Priya Malhotra,25,Female ,Tech Academy,Data Analytics,Online,5 months,5,2,3,75,No Certification,80,No
+Dev Venkatesh,22,Female ,Tech Academy,Ethical Hacking,Online,6 months ,8,2,73,71,No Certification,68,Yes
+Kabir Gupta,22,Male,Cloud Innovators,Ethical Hacking,Offline,7 months,9,1,85,84,IIT Madras Standard Course,80,No
+Bhavna Kapoor,22,Male ,CyberSecure Institute,Cloud Computing,Online,6 months,7,1,83,92,No Certification,74,No
+Shivansh Naidu,22,Male,CyberSecure Institute,Robotics,Online,5 months,10,2,90,75,No Certification,98,Yes
+Aarohi Venkatesh,22,Female ,CodeMasters,Cloud Computing,Online,6 months,5,1,81,89,No Certification,81,No
+Bhavna Iyer,22,Female ,CyberSecure Institute,Robotics,Offline,7 months,6,1,84,70,Harvard University Professional Certificate,94,No
+Vivaan Pandey,22,Female ,Cloud Innovators,Python Programming,Offline,8 months,10,1,16,96,No Certification,71,Yes
+Vikram Reddy,23,Male,CyberSecure Institute,Data Science,Offline,6 months,6,1,98,92,NASSCOM Certification,73,Yes
+Sai Deshmukh,25,Male,CodeMasters,Data Science,Online,5 months,5,3,66,71,No Certification,99,No
+Krishna Bhat,21,Female ,CyberSecure Institute,Python Programming,Online,5 months,7,3,39,78,AWS Specialization,74,Yes
+Om Venkatesh,22,Female ,CyberSecure Institute,Ethical Hacking,Offline,6 months ,6,1,35,79,AWS Specialization,64,No
+Aditya Verma,24,Female ,CodeMasters,Cloud Computing,Offline,7 months,8,2,97,96,AWS Specialization,96,No
+Tanvi Naidu,24,Male,Tech Academy,Ethical Hacking,Online,6 months,10,1,66,89,NASSCOM Certification,72,No
+Laksh Pillai,24,Male ,Tech Academy,Data Analytics,Online,5 months,5,2,34,92,NASSCOM Certification,96,No
+Krishna Gupta,25,Male,CodeMasters,Cloud Computing,Online,6 months,6,1,37,82,No Certification,99,No
+Rohan Bhat,23,Female ,Tech Academy,Python Programming,Online,7 months,7,3,70,71,No Certification,85,Yes
+Jhanvi Joshi,26,Female ,CodeMasters,Robotics,Online,8 months,9,2,41,99,AWS Specialization,83,Yes
+Om Malhotra,24,Female ,CodeMasters,Robotics,Offline,6 months,7,1,10,89,No Certification,78,No
+Ananya Tripathi,25,Male,CodeMasters,Data Science,Offline,5 months,9,2,23,90,IIT Madras Standard Course,72,No
+Ananya Gupta,22,Male,Cloud Innovators,Cybersecurity,Online,5 months,,2,50,84,Harvard University Professional Certificate,72,No
+Aadhya Pandey,25,Female ,CyberSecure Institute,Data Science,Online,6 months ,9,2,59,82,NASSCOM Certification,79,No
+Nirav Chopra,26,Female ,CyberSecure Institute,Software Testing,Offline,7 months,10,2,80,96,Harvard University Professional Certificate,77,Yes
+Ishita Chopra,22,Female ,Cloud Innovators,Data Science,Offline,6 months,8,3,,78,No Certification,92,No
+Diya Tripathi,25,Male,CodeMasters,Data Science,Offline,5 months,7,3,80,75,No Certification,77,No
+Rudra Iyer,23,Male ,CyberSecure Institute,Cybersecurity,Online,6 months,5,2,48,81,No Certification,88,Yes
+Kavya Joshi,22,Male,AI Hub,Software Testing,Online,7 months,9,2,99,95,No Certification,91,No
+Ishita Kulkarni,24,Female ,CodeMasters,Robotics,Offline,8 months,10,1,90,89,No Certification,83,No
+Dev Pillai,25,Female ,AI Hub,Ethical Hacking,Online,6 months,7,3,96,85,No Certification,90,No
+Krishna Iyer,22,Female ,CyberSecure Institute,Web Development,Offline,5 months,6,2,73,93,NASSCOM Certification,86,No
+Ananya Joshi,22,Male,AI Hub,Ethical Hacking,Offline,5 months,5,3,78,84,AWS Specialization,91,No
+Sanya Venkatesh,22,Male,Cloud Innovators,Robotics,Online,6 months ,5,1,67,98,No Certification,94,Yes
+Vikram Pillai,22,Female ,CodeMasters,Data Analytics,Offline,7 months,7,3,18,94,NASSCOM Certification,75,Yes
+Rohan Naidu,22,Female ,CyberSecure Institute,Software Testing,Online,,7,1,97,89,AWS Specialization,81,Yes
+Kabir Mehta,22,Female ,Tech Academy,Data Analytics,Online,5 months,8,1,5,70,No Certification,91,Yes
+Priya Reddy,22,Male,CodeMasters,Cloud Computing,Online,6 months,7,2,24,97,No Certification,100,Yes
+Kavya Bhat,23,Male ,Cloud Innovators,Web Development,Online,7 months,10,1,35,89,IIT Madras Standard Course,60,Yes
+Pooja Kapoor,25,Male,CyberSecure Institute,Cybersecurity,Offline,8 months,9,1,34,73,AWS Specialization,94,No
+Neha Nair,21,Female ,CyberSecure Institute,Cloud Computing,Offline,6 months,5,2,13,99,No Certification,68,No
+Laksh Pillai,22,Female ,Tech Academy,Ethical Hacking,Offline,5 months,5,2,78,94,IIT Madras Standard Course,97,No
+Jhanvi Verma,24,Female ,CyberSecure Institute,Ethical Hacking,Online,7 months,5,2,75,85,IIT Madras Standard Course,68,No
+Nirav Mehta,24,Male,CyberSecure Institute,Data Analytics,Offline,6 months,6,3,46,89,No Certification,87,Yes
+Om Kulkarni,24,Male,Cloud Innovators,Robotics,Online,5 months,7,3,46,83,No Certification,65,Yes
+Pooja Pandey,25,Female ,Cloud Innovators,Data Science,Online,6 months,9,2,74,93,AWS Specialization,79,Yes
+Sanya Iyer,23,Female ,AI Hub,Web Development,Online,7 months,6,,12,85,No Certification,83,Yes
+Aarohi Bhat,26,Female ,Tech Academy,Robotics,Offline,8 months,6,1,27,90,No Certification,92,No
+Vikram Bhat,24,Male,Tech Academy,Web Development,Online,6 months,10,2,76,98,IIT Madras Standard Course,75,Yes
+Kabir Kulkarni,25,Male ,Cloud Innovators,Data Science,Offline,5 months,10,2,20,89,No Certification,75,Yes
+Kavya Gupta,25,Male,Cloud Innovators,Cloud Computing,Online,5 months,9,2,49,82,IIT Madras Course Completion,84,No
+Samar Venkatesh,26,Female ,CyberSecure Institute,Python Programming,Online,6 months ,5,2,93,91,No Certification,69,No
+Aryan Kapoor,22,Female ,Tech Academy,Python Programming,Offline,7 months,7,3,77,96,AWS Specialization,100,No
+Laksh Bhat,25,Female ,AI Hub,Robotics,Offline,6 months,7,1,2,93,AWS Specialization,91,No
+Gayatri Deshmukh,23,Male,Cloud Innovators,Ethical Hacking,Online,5 months,9,3,92,80,IIT Madras Standard Course,61,No
+Meera Naidu,22,Male,CodeMasters,Data Analytics,Offline,6 months,7,1,99,92,AWS Specialization,98,Yes
+Yash Bhat,24,Female ,Tech Academy,Robotics,Online,7 months,6,1,66,94,NASSCOM Certification,72,No
+Aadhya Gupta,25,Female ,Tech Academy,Robotics,Offline,8 months,7,3,38,74,Harvard University Professional Certificate,69,No
+Jhanvi Bhat,22,Female ,AI Hub,AI &ML,Online,6 months,10,3,46,97,IIT Madras Standard Course,60,Yes
+Vikram Pillai,22,Male,Cloud Innovators,Software Testing,Offline,5 months,8,2,100,85,Harvard University Professional Certificate,89,No
+Vikram Chopra,22,Male ,AI Hub,Web Development,Offline,5 months,10,1,71,75,IIT Madras Standard Course,81,No
+Isha Malhotra,22,Male,Cloud Innovators,Robotics,Offline,6 months ,8,1,26,88,No Certification,91,No
+Sai Joshi,22,Female ,Tech Academy,Data Analytics,Offline,7 months,5,1,59,100,NASSCOM Certification,74,Yes
+Suman Bhat,22,Female ,CyberSecure Institute,Ethical Hacking,Online,6 months,10,2,99,94,Harvard University Professional Certificate,89,Yes
+Om Gupta,22,Female ,CyberSecure Institute,Web Development,Offline,5 months,10,1,80,76,IIT Madras Standard Course,88,No
+Om Verma,23,Male,CodeMasters,Robotics,Online,6 months,5,1,25,88,No Certification,70,No
+Diya Tripathi,25,Male,CodeMasters,Software Testing,Online,7 months,5,1,52,75,IIT Madras Standard Course,93,No
+Ananya Verma,21,Female ,CodeMasters,Data Analytics,Online,8 months,7,3,67,70,No Certification,70,Yes
+Tanvi Nair,22,Female ,Cloud Innovators,Robotics,Online,6 months,7,1,23,91,No Certification,68,No
+Vikram Chopra,24,Female ,AI Hub,Web Development,Online,5 months,6,3,70,78,IIT Madras Standard Course,87,No
+Dev Tripathi,24,Male,AI Hub,Robotics,Offline,5 months,8,2,85,94,Harvard University Professional Certificate,100,No
+Radha Iyer,24,Male ,CodeMasters,Cybersecurity,Offline,,8,2,73,90,AWS Specialization,86,No
+Pooja Pillai,25,Male,AI Hub,AI &ML,Online,7 months,6,3,91,99,AWS Specialization,92,No
+Ishita Nair,23,Female ,CodeMasters,Software Testing,Offline,6 months,5,3,7,83,No Certification,83,No
+Shivansh Chopra,26,Female ,CodeMasters,Data Science,Online,5 months,6,1,32,79,No Certification,62,Yes
+Aditya Nair,24,Female ,Cloud Innovators,Cybersecurity,Offline,6 months,5,3,50,70,No Certification,76,No
+Shruti Pillai,25,Male,CodeMasters,Data Analytics,Online,7 months,7,3,37,92,Harvard University Professional Certificate,79,Yes
+Kunal Gupta,22,Male,CodeMasters,Data Science,Online,8 months,9,3,96,94,Harvard University Professional Certificate,97,No
+Aarohi Kapoor,25,Female ,AI Hub,Python Programming,Online,6 months,10,1,100,95,AWS Specialization,96,No
+Kunal Iyer,26,Female ,Tech Academy,Ethical Hacking,Offline,5 months,10,3,27,83,No Certification,87,No
+Pooja Deshmukh,22,Female ,CyberSecure Institute,Data Analytics,Online,5 months,8,1,64,94,No Certification,60,No
+Shivansh Pillai,25,Male,CodeMasters,Data Analytics,Offline,6 months ,7,2,74,86,AWS Specialization,89,No
+Suman Naidu,23,Male ,CyberSecure Institute,Data Science,Online,7 months,10,3,46,100,NASSCOM Certification,89,No
+Diya Iyer,22,Male,CyberSecure Institute,Data Analytics,Offline,6 months,8,3,9,83,No Certification,73,Yes
+Tanvi Chopra,24,Female ,CodeMasters,AI &ML,Online,5 months,9,2,35,81,NASSCOM Certification,67,Yes
+Ishita Chopra,25,Female ,CodeMasters,Python Programming,Online,6 months,8,1,95,84,IIT Madras Standard Course,68,No
+Gayatri Reddy,22,Female ,CyberSecure Institute,Cybersecurity,Online,7 months,7,1,26,79,No Certification,93,No
+Kunal Deshmukh,22,Male,CodeMasters,Data Science,Offline,8 months,8,3,92,71,NASSCOM Certification,67,No
+Meera Gupta,22,Male,CyberSecure Institute,Python Programming,Offline,6 months,8,3,25,78,No Certification,90,No
+Aarav Bhat,22,Female ,AI Hub,Python Programming,Offline,5 months,10,2,83,75,AWS Specialization,93,Yes
+Radha Tripathi,22,Female ,CyberSecure Institute,Data Analytics,Offline,6 months ,5,,92,73,NASSCOM Certification,73,Yes
+Dev Iyer,22,Female ,CyberSecure Institute,Data Analytics,Online,7 months,8,2,56,93,AWS Specialization,89,No
+Radha Joshi,22,Male,AI Hub,Data Analytics,Offline,6 months,7,1,93,89,Harvard University Professional Certificate,74,Yes
+Neha Pandey,23,Male ,AI Hub,Data Analytics,Offline,5 months,8,1,78,91,NASSCOM Certification,65,No
+Priya Iyer,25,Male,Tech Academy,AI &ML,Offline,6 months,9,1,58,84,NASSCOM Certification,61,No
+Riya Bhat,21,Female ,CodeMasters,Ethical Hacking,Online,7 months,8,1,34,88,Harvard University Professional Certificate,83,No
+Rudra Tripathi,22,Female ,CodeMasters,Software Testing,Online,8 months,8,3,99,93,No Certification,75,Yes
+Om Kulkarni,24,Female ,Cloud Innovators,Python Programming,Online,6 months,10,3,66,88,NASSCOM Certification,94,No
+Harsh Gupta,,Male,Cloud Innovators,Data Science,Online,5 months,9,2,76,85,IIT Madras Standard Course,77,Yes
+Aditya Naidu,24,Male,AI Hub,Python Programming,Offline,5 months,10,1,53,80,No Certification,76,No
+Sanya Kapoor,25,Female ,CyberSecure Institute,Web Development,Offline,6 months ,5,2,60,98,Harvard University Professional Certificate,93,Yes
+Kavya Gowda,23,Female ,Tech Academy,Python Programming,Online,7 months,5,3,48,100,AWS Specialization,71,No
+Isha Nair,26,Female ,AI Hub,Robotics,Offline,6 months,8,3,85,77,AWS Specialization,78,No
+Aryan Kulkarni,24,Male,CodeMasters,Cloud Computing,Offline,5 months,6,2,77,94,IIT Madras Standard Course,69,No
+Isha Tripathi,25,Male ,Cloud Innovators,Python Programming,Online,6 months,5,3,53,84,NASSCOM Certification,95,No
+Yash Gowda,22,Male,Cloud Innovators,Cybersecurity,Online,7 months,9,3,21,83,Harvard University Professional Certificate,75,No
+Yash Iyer,25,Female ,Tech Academy,Cloud Computing,Online,8 months,6,3,57,74,No Certification,67,No
+Shivansh Gupta,26,Female ,CodeMasters,Cybersecurity,Online,,9,3,63,85,No Certification,81,No
+Tanvi Reddy,22,Female ,CyberSecure Institute,AI &ML,Online,5 months,7,3,4,71,IIT Madras Standard Course,84,No
+Om Verma,25,Male,CodeMasters,Ethical Hacking,Online,5 months,8,1,99,84,IIT Madras Standard Course,99,Yes
+Neha Iyer,23,Male,Cloud Innovators,Cybersecurity,Offline,6 months ,6,2,93,100,NASSCOM Certification,84,Yes
+Dev Verma,22,Female ,Tech Academy,Ethical Hacking,Offline,7 months,9,2,84,84,AWS Specialization,68,No
+Vivaan Pandey,24,Female ,Cloud Innovators,Software Testing,Online,6 months,8,2,29,77,No Certification,71,No
+Vikram Chopra,25,Female ,CodeMasters,Cybersecurity,Online,5 months,9,1,2,78,No Certification,72,Yes
+Radha Joshi,22,Male,CyberSecure Institute,Data Science,Offline,6 months,8,2,66,88,No Certification,72,No
+Suman Pillai,22,Male ,AI Hub,Ethical Hacking,Offline,7 months,8,3,33,87,No Certification,70,No
+Samar Bhat,22,Male,CyberSecure Institute,Software Testing,Offline,8 months,7,2,65,83,IIT Madras Standard Course,66,No
+Dev Joshi,22,Female ,AI Hub,Data Analytics,Offline,6 months,7,2,97,80,No Certification,94,No
+Jhanvi Bhat,22,Female ,CyberSecure Institute,Data Science,Online,5 months,9,2,34,74,No Certification,74,No
+Rohan Sharma,22,Female ,CodeMasters,Robotics,Online,5 months,8,2,77,80,IIT Madras Standard Course,77,No
+Aditya Bhat,22,Male,Cloud Innovators,Ethical Hacking,Offline,6 months ,8,2,14,93,No Certification,73,Yes
+Yash Verma,23,Male,CodeMasters,Data Analytics,Offline,7 months,5,3,42,74,No Certification,77,Yes
+Samar Kapoor,25,Female ,CyberSecure Institute,Cybersecurity,Online,6 months,6,3,99,99,IIT Madras Standard Course,88,Yes
+Jhanvi Venkatesh,21,Female ,AI Hub,Ethical Hacking,Offline,5 months,7,1,18,82,NASSCOM Certification,64,Yes
+Suman Pillai,22,Female ,CodeMasters,Cybersecurity,Offline,6 months,5,3,36,70,Harvard University Professional Certificate,99,Yes
+Kunal Tripathi,24,Male,CyberSecure Institute,Robotics,Offline,7 months,8,3,7,75,No Certification,76,Yes
+Harsh Kapoor,24,Male ,CyberSecure Institute,Data Science,Online,8 months,8,2,17,85,No Certification,73,Yes
+Sai Tripathi,24,Male,AI Hub,Software Testing,Online,6 months,7,3,1,80,AWS Specialization,75,No
+Krishna Iyer,25,Female ,Tech Academy,Web Development,Offline,5 months,10,2,41,93,No Certification,81,No
+Ishita Gowda,23,Female ,CodeMasters,Python Programming,Offline,5 months,9,1,41,83,No Certification,88,No
+Samar Chopra,26,Female ,CodeMasters,Data Science,Offline,6 months ,10,3,51,99,No Certification,84,No
+Ananya Kapoor,24,Male,CyberSecure Institute,Data Analytics,Online,7 months,7,2,46,81,No Certification,83,Yes
+Aarohi Venkatesh,25,Male,CyberSecure Institute,Data Science,Offline,6 months,10,2,89,77,NASSCOM Certification,84,Yes
+Ishita Kulkarni,22,Female ,CodeMasters,Data Science,Online,5 months,10,2,88,70,AWS Specialization,95,No
+Gayatri Kulkarni,25,Female ,AI Hub,Software Testing,Online,6 months,6,1,60,96,No Certification,84,Yes
+Priya Malhotra,26,Female ,CyberSecure Institute,Data Analytics,Offline,7 months,9,3,67,98,No Certification,100,No
+Shruti Pillai,22,Male,CyberSecure Institute,Software Testing,Offline,8 months,9,1,2,75,Harvard University Professional Certificate,69,No
+Harsh Sharma,25,Male ,CodeMasters,Cybersecurity,Offline,6 months,7,2,89,92,No Certification,100,Yes
+Tanvi Iyer,23,Male,CodeMasters,Cybersecurity,Offline,5 months,9,2,20,82,Harvard University Professional Certificate,98,No
+Suman Malhotra,22,Female ,Cloud Innovators,Cybersecurity,Offline,6 months,10,1,16,93,AWS Specialization,84,No
+Bhavna Mehta,24,Female ,CyberSecure Institute,Web Development,Offline,5 months,10,2,30,95,NASSCOM Certification,84,No
+Kavya Joshi,25,Female ,Tech Academy,Robotics,Online,6 months,7,3,57,87,No Certification,96,Yes
+Diya Chopra,22,Male,CyberSecure Institute,Data Analytics,Offline,7 months,7,2,8,91,No Certification,80,No
+Jhanvi Verma,22,Male,AI Hub,Web Development,Offline,8 months,10,2,18,90,No Certification,83,No
+Kavya Kulkarni,22,Female ,Tech Academy,Web Development,Offline,6 months,6,1,50,96,NASSCOM Certification,99,Yes
+Laksh Malhotra,22,Female ,CodeMasters,AI &ML,Online,5 months,10,3,40,91,No Certification,91,No
+Om Tripathi,22,Female ,AI Hub,Python Programming,Offline,5 months,10,1,14,91,No Certification,94,Yes
+Harsh Pandey,22,Male,CodeMasters,AI &ML,Online,6 months ,6,1,57,78,IIT Madras Standard Course,90,No
+Pooja Mehta,22,Male ,CyberSecure Institute,Ethical Hacking,Online,7 months,5,1,8,83,No Certification,69,No
+Shruti Gupta,23,Male,CyberSecure Institute,Ethical Hacking,Online,6 months,10,2,79,97,No Certification,69,No
+Vikram Pandey,25,Female ,AI Hub,Data Analytics,Online,5 months,10,2,20,84,No Certification,97,Yes
+Om Gowda,21,Female ,CyberSecure Institute,AI &ML,Online,6 months,5,3,39,81,No Certification,98,Yes
+Rohan Chopra,22,Female ,Cloud Innovators,Software Testing,Offline,7 months,5,2,20,75,No Certification,79,No
+Kabir Gupta,24,Male,CodeMasters,Python Programming,Offline,8 months,6,1,78,93,Harvard University Professional Certificate,97,Yes
+Shruti Joshi,24,Male,AI Hub,Software Testing,Offline,6 months,6,2,37,99,No Certification,79,No
+Sanya Naidu,24,Female ,Tech Academy,Robotics,Offline,5 months,8,3,92,98,No Certification,76,No
+Samar Joshi,25,Female ,AI Hub,Python Programming,Online,5 months,7,1,17,88,No Certification,88,Yes
+Aditya Verma,23,Female ,Cloud Innovators,Ethical Hacking,Online,6 months ,6,1,15,77,No Certification,93,Yes
+Meera Kapoor,26,Male,CyberSecure Institute,Cloud Computing,Offline,7 months,8,2,9,78,No Certification,71,Yes
+Riya Iyer,24,Male ,AI Hub,Robotics,Offline,6 months,10,3,4,92,No Certification,81,No
+Nirav Pillai,25,Male,CyberSecure Institute,AI &ML,Offline,5 months,5,1,60,73,Harvard University Professional Certificate,90,No
+Aryan Nair,25,Female ,CyberSecure Institute,Data Analytics,Online,6 months,7,1,61,85,AWS Specialization,60,Yes
+Suman Gowda,26,Female ,Cloud Innovators,Robotics,Online,7 months,8,1,17,70,AWS Specialization,98,No
+Diya Joshi,22,Female ,AI Hub,Data Analytics,Offline,8 months,6,3,98,81,No Certification,97,No
+Kabir Joshi,25,Male,Tech Academy,Cloud Computing,Online,6 months,6,1,94,83,IIT Madras Standard Course,94,Yes
+Aryan Tripathi,23,Male,Cloud Innovators,Python Programming,Offline,5 months,10,1,16,79,No Certification,87,No
+Kabir Kulkarni,22,Female ,AI Hub,Ethical Hacking,Online,5 months,10,3,36,92,IIT Madras Standard Course,82,No
+Pooja Sharma,24,Female ,Cloud Innovators,Data Analytics,Offline,6 months ,6,3,5,72,Harvard University Professional Certificate,77,Yes
+Aarav Nair,25,Female ,Cloud Innovators,Data Analytics,Online,7 months,7,2,60,88,AWS Specialization,99,Yes
+Kabir Gupta,22,Male,CyberSecure Institute,Python Programming,Offline,6 months,7,3,8,89,NASSCOM Certification,62,Yes
+Rudra Iyer,22,Male ,Tech Academy,Cybersecurity,Online,5 months,9,3,48,74,Harvard University Professional Certificate,68,No
+Aarohi Mehta,22,Male,CyberSecure Institute,Data Science,Online,6 months,5,2,63,79,NASSCOM Certification,74,Yes
+Diya Gupta,22,Female ,Tech Academy,Cybersecurity,Offline,7 months,6,3,12,89,NASSCOM Certification,81,Yes
+Krishna Iyer,22,Female ,Cloud Innovators,AI &ML,Offline,8 months,6,1,43,74,AWS Specialization,61,No
+Ishita Kapoor,22,Female ,Cloud Innovators,Data Science,Offline,6 months,8,3,81,82,IIT Madras Standard Course,72,No
+Aditya Malhotra,22,Male,Cloud Innovators,Robotics,Offline,5 months,5,2,39,81,NASSCOM Certification,86,Yes
+Bhavna Kapoor,23,Male,CyberSecure Institute,Ethical Hacking,Online,5 months,10,2,57,88,No Certification,64,No
+Rudra Gowda,25,Female ,CyberSecure Institute,Robotics,Online,6 months ,8,2,16,87,No Certification,85,Yes
+Kunal Reddy,21,Female ,CodeMasters,Cybersecurity,Online,7 months,8,1,59,74,No Certification,100,Yes
+Radha Venkatesh,22,Female ,Tech Academy,Ethical Hacking,Online,,5,1,62,72,IIT Madras Standard Course,78,No
+Jhanvi Tripathi,24,Male,CodeMasters,Cloud Computing,Online,5 months,6,1,30,78,NASSCOM Certification,61,No
+Aryan Gowda,24,Male ,CodeMasters,Data Science,Offline,6 months,7,2,66,93,No Certification,99,No
+Diya Pandey,24,Male,AI Hub,Robotics,Online,7 months,7,1,73,92,NASSCOM Certification,61,No
+Aryan Reddy,25,Female ,Tech Academy,Ethical Hacking,Online,8 months,5,3,3,75,No Certification,74,No
+Tanvi Chopra,23,Female ,AI Hub,Python Programming,Online,6 months,9,2,40,76,No Certification,90,No
+Yash Gupta,26,Female ,Tech Academy,Cybersecurity,Offline,5 months,5,2,11,72,No Certification,72,Yes
+Meera Pillai,24,Male,Cloud Innovators,Cloud Computing,Online,6 months ,7,3,99,93,Harvard University Professional Certificate,66,Yes
+Diya Venkatesh,25,Male,Cloud Innovators,Data Science,Offline,7 months,8,1,49,84,No Certification,60,Yes
+Jhanvi Kulkarni,22,Female ,CyberSecure Institute,Ethical Hacking,Online,6 months,6,2,4,87,No Certification,79,No
+Harsh Reddy,25,Female ,Tech Academy,Data Science,Online,5 months,6,3,29,70,NASSCOM Certification,71,Yes
+Ishita Pillai,26,Male,AI Hub,Data Science,Offline,6 months,9,3,47,99,No Certification,61,No
+Arjun Kapoor,22,Male ,Cloud Innovators,Data Analytics,Offline,7 months,10,3,73,82,No Certification,65,No
+Shruti Pillai,25,Male,Tech Academy,Python Programming,Online,8 months,8,2,36,100,No Certification,92,No
+Om Iyer,23,Female ,CyberSecure Institute,Robotics,Online,6 months,6,3,5,79,No Certification,73,No
+Krishna Kulkarni,22,Female ,Cloud Innovators,Software Testing,Online,5 months,8,1,53,98,No Certification,90,No
+Ishita Naidu,24,Female ,AI Hub,Cloud Computing,Online,5 months,7,2,66,76,NASSCOM Certification,66,Yes
+Bhavna Pandey,25,Male,CodeMasters,Robotics,Offline,6 months ,5,1,87,70,Harvard University Professional Certificate,83,No
+Ananya Chopra,22,Male,Tech Academy,AI &ML,Online,7 months,6,3,0,86,No Certification,93,No
+Priya Nair,22,Female ,AI Hub,AI &ML,Online,6 months,8,1,49,94,No Certification,87,Yes
+Radha Verma,22,Female ,CodeMasters,Web Development,Offline,5 months,7,3,35,100,Harvard University Professional Certificate,78,No
+Diya Kulkarni,22,Female ,Cloud Innovators,Ethical Hacking,Online,,5,1,99,79,No Certification,89,No
+Rudra Venkatesh,22,Male,Cloud Innovators,Data Science,Offline,7 months,6,2,88,93,No Certification,89,Yes
+Bhavna Nair,22,Male ,CyberSecure Institute,AI &ML,Online,8 months,5,3,85,98,Harvard University Professional Certificate,71,Yes
+Aarav Naidu,22,Male,CodeMasters,Web Development,Offline,6 months,7,2,20,78,NASSCOM Certification,99,No
+Shivansh Joshi,23,Female ,AI Hub,AI &ML,Online,5 months,8,3,12,75,No Certification,96,Yes
+Neha Mehta,25,Female ,CyberSecure Institute,Python Programming,Online,5 months,7,2,94,97,NASSCOM Certification,75,No
+Shruti Kapoor,21,Female ,Cloud Innovators,Data Analytics,Offline,6 months ,9,,6,96,No Certification,95,No
+Om Malhotra,22,Male,CyberSecure Institute,Web Development,Online,7 months,9,3,21,81,NASSCOM Certification,95,No
+Yash Malhotra,24,Male,AI Hub,Robotics,Online,6 months,7,2,84,74,IIT Madras Standard Course,63,Yes
+Om Reddy,24,Female ,AI Hub,Data Science,Online,5 months,9,2,69,71,IIT Madras Standard Course,97,Yes
+Aditya Kulkarni,24,Female ,Cloud Innovators,Data Analytics,Online,6 months,9,2,38,70,No Certification,98,No
+Nirav Naidu,25,Female ,CyberSecure Institute,Python Programming,Offline,7 months,5,3,74,91,No Certification,97,Yes
+Aadhya Nair,23,Male,CodeMasters,AI &ML,Offline,8 months,5,3,19,97,No Certification,68,Yes
+Nirav Naidu,26,Male ,CyberSecure Institute,Software Testing,Offline,6 months,5,2,90,71,No Certification,99,No
+Aditya Chopra,24,Male,Cloud Innovators,Robotics,Offline,5 months,8,3,40,90,Harvard University Professional Certificate,98,No
+Gayatri Naidu,25,Female ,CodeMasters,Data Analytics,Offline,5 months,10,1,34,100,No Certification,69,Yes
+Rohan Kulkarni,22,Female ,CyberSecure Institute,Software Testing,Online,6 months ,7,3,22,99,No Certification,63,Yes
+Rohan Gowda,25,Female ,AI Hub,Software Testing,Online,7 months,6,2,76,86,IIT Madras Standard Course,74,Yes
+Laksh Iyer,26,Male,AI Hub,Data Analytics,Offline,6 months,9,3,71,71,No Certification,63,No
+Arjun Verma,22,Male,Cloud Innovators,Data Science,Online,5 months,9,2,22,82,IIT Madras Standard Course,68,No
+Shruti Gupta,25,Female ,Tech Academy,Data Analytics,Online,6 months,10,2,36,79,No Certification,87,No
+Shivansh Sharma,23,Female ,Tech Academy,Cybersecurity,Online,7 months,6,1,93,85,IIT Madras Standard Course,76,No
+Neha Verma,22,Female ,CodeMasters,Python Programming,Online,8 months,6,3,26,95,No Certification,74,No
+Priya Pillai,24,Male,Cloud Innovators,Robotics,Offline,6 months,6,3,90,99,No Certification,86,No
+Vikram Nair,25,Male ,Cloud Innovators,Cybersecurity,Online,5 months,8,2,47,91,Harvard University Professional Certificate,86,Yes
+Shivansh Pandey,22,Male,CodeMasters,Python Programming,Offline,5 months,10,2,17,96,No Certification,69,No
+Vivaan Iyer,22,Female ,CodeMasters,Web Development,Offline,6 months ,5,2,80,79,NASSCOM Certification,84,No
+Nirav Mehta,22,Female ,CodeMasters,Cybersecurity,Online,7 months,9,2,38,80,No Certification,91,No
+Aadhya Joshi,22,Female ,CyberSecure Institute,Software Testing,Online,6 months,6,1,85,73,No Certification,94,Yes
+Riya Pandey,,Male,CyberSecure Institute,Cloud Computing,Online,5 months,7,3,37,92,NASSCOM Certification,91,No
+Yash Deshmukh,22,Male,Tech Academy,Python Programming,Offline,6 months,5,1,42,98,AWS Specialization,73,No
+Shruti Deshmukh,22,Female ,Tech Academy,Python Programming,Online,7 months,8,2,91,73,Harvard University Professional Certificate,90,No
+Ananya Pillai,23,Female ,CyberSecure Institute,Cybersecurity,Online,8 months,10,3,4,97,AWS Specialization,94,No
+Sai Mehta,25,Female ,Tech Academy,Software Testing,Offline,7 months,10,2,30,78,IIT Madras Standard Course,90,No
+Rohan Tripathi,21,Male,Tech Academy,Cybersecurity,Online,6 months,9,3,37,85,Harvard University Professional Certificate,83,No
+Riya Gowda,22,Male ,AI Hub,AI &ML,Online,5 months,8,2,17,99,No Certification,64,No
+Aditya Chopra,24,Male,AI Hub,AI &ML,Offline,6 months,9,3,50,90,AWS Specialization,98,No
+Samar Verma,24,Female ,Cloud Innovators,Web Development,Offline,7 months,7,2,61,99,Harvard University Professional Certificate,78,No
+Sai Pandey,24,Female ,CyberSecure Institute,Python Programming,Online,8 months,6,2,36,95,No Certification,70,Yes
+Laksh Mehta,25,Female ,CodeMasters,Data Analytics,Online,6 months,9,2,5,83,AWS Specialization,60,No
+Kabir Nair,23,Male,CodeMasters,Software Testing,Online,5 months,6,1,26,84,AWS Specialization,77,Yes
+Sanya Tripathi,26,Male,AI Hub,Data Analytics,Online,5 months,6,3,61,84,AWS Specialization,78,No
+Laksh Reddy,24,Female ,AI Hub,Robotics,Offline,6 months ,5,1,64,78,No Certification,81,No
+Riya Bhat,25,Female ,CyberSecure Institute,Robotics,Online,7 months,8,3,72,82,No Certification,91,No
+Vivaan Pillai,22,Female ,CyberSecure Institute,Software Testing,Online,6 months,6,1,87,87,Harvard University Professional Certificate,77,Yes
+Dev Kulkarni,25,Male,CyberSecure Institute,AI &ML,Online,5 months,7,3,100,83,IIT Madras Standard Course,75,No
+Bhavna Pandey,26,Male ,CodeMasters,Robotics,Offline,6 months,6,2,29,100,No Certification,64,No
+Aadhya Kulkarni,22,Male,Cloud Innovators,Web Development,Offline,7 months,7,2,81,99,No Certification,75,No
+Kavya Verma,25,Female ,Tech Academy,Robotics,Offline,,9,2,38,72,Harvard University Professional Certificate,84,Yes
+Kunal Venkatesh,23,Female ,Cloud Innovators,Data Analytics,Offline,6 months,9,1,92,79,No Certification,60,Yes
+Priya Tripathi,22,Female ,CodeMasters,Ethical Hacking,Offline,5 months,10,3,61,86,NASSCOM Certification,66,No
+Harsh Iyer,24,Male,CodeMasters,Python Programming,Offline,5 months,6,3,15,87,No Certification,64,Yes
+Samar Verma,25,Male,CyberSecure Institute,AI &ML,Online,6 months ,7,2,18,70,No Certification,99,Yes
+Tanvi Tripathi,22,Female ,CyberSecure Institute,Data Science,Online,7 months,10,3,13,85,AWS Specialization,77,No
+Aadhya Naidu,22,Female ,CyberSecure Institute,Ethical Hacking,Online,6 months,9,1,35,99,AWS Specialization,76,No
+Aryan Pillai,22,Female ,CyberSecure Institute,Data Science,Offline,5 months,8,2,55,95,No Certification,74,No
+Vikram Deshmukh,22,Male,CodeMasters,Web Development,Offline,6 months,7,3,93,70,Harvard University Professional Certificate,73,Yes
+Arjun Gowda,22,Male ,Cloud Innovators,Software Testing,Online,7 months,6,1,26,100,IIT Madras Standard Course,64,No
+Aditya Verma,22,Male,CodeMasters,Data Science,Online,8 months,5,3,79,80,NASSCOM Certification,86,No
+Jhanvi Naidu,22,Female ,Cloud Innovators,Software Testing,Online,6 months,10,3,59,86,IIT Madras Standard Course,85,No
+Radha Mehta,23,Female ,AI Hub,Web Development,Offline,5 months,7,2,99,88,No Certification,64,Yes
+Diya Pillai,25,Female ,CodeMasters,Ethical Hacking,Offline,5 months,7,3,67,80,NASSCOM Certification,82,Yes
+Samar Reddy,21,Male,Cloud Innovators,Ethical Hacking,Online,6 months ,5,2,81,97,Harvard University Professional Certificate,78,Yes
+Harsh Naidu,22,Male,CodeMasters,Robotics,Online,7 months,6,1,24,70,NASSCOM Certification,63,No
+Samar Iyer,,Female ,CodeMasters,Web Development,Online,6 months,5,3,82,77,No Certification,72,Yes
+Suman Kulkarni,24,Female ,AI Hub,Cybersecurity,Online,5 months,7,3,70,93,No Certification,80,Yes
+Vikram Venkatesh,24,Female ,Tech Academy,Python Programming,Online,6 months,6,2,63,83,No Certification,76,No
+Shruti Nair,25,Male,Cloud Innovators,Python Programming,Offline,7 months,6,,85,73,NASSCOM Certification,63,Yes
